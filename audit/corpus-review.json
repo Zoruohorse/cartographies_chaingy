@@ -1,0 +1,653 @@
+[
+  {
+    "xlsx_row": 2,
+    "resource_id": "0430c61c-f006-4c02-9a8a-270a2f6d52ed",
+    "title": "Dambron : l'opposition municipale face au projet Enertrag de stockage d'énergie par batteries lithium",
+    "url_from_file": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcGc3VzJIUERXZUtjVFZnRHlkN08xdG1xajYwYmV6NE93bGFtRE4waVYxN3RMYU9TcjdMOFFaWWE1dUFoVUxfLVYzaVJlY1l6cWlKNEY4VmhVRGdBQXFHcHRESGxuMVYxMlJNM0V3bWVuN1dsUXd3Zk1QR0xjLTZZTHVvd3VLQXJTT0lpY3pfSm5VMm5vZUs3LXZHWmtrWE1XTWFOM1h1V1ZHU3lxS0k3WjhXTlRjY081bmNvWllvbHVKUnZqZmxERUx6c25jakpNTmFfTXlNbmxrYlRtNVNIZGg4LXRNZk4ycllJ?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-08-10",
+    "decision": "used_as_evidence",
+    "source_id": "source_0019",
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 3,
+    "resource_id": "ba2e9a50-41f6-44f9-ad29-fbf75d7dddfd",
+    "title": "\"A quoi bon faire une enquête publique ?\" : A Ingré, les riverains de la future ligne électrique s'interrogent",
+    "url_from_file": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQb093Sm42RG9YUkZEQ3V2OXcydF9FRTVmeVR2alhIQXZhZHZzLXV6TWpHWVNuX3pVd1pkS0VOQ2tFODNWMnJtU1pYS2dfVk5YQXR4Y2xpRE1weTdObzFrdlBtWHZJVGY4aWxRNGN1Mjd2bmxPTDRqc3AyZ0cwNmFDT183U19xY2xQYkZwOUFSREdvaHZOYmdqVnBPbWdTQVItY09aeTl6TEZxVC0wa3lRMmxDMTRQZjdBVi1pUzVyNno4RWl6MHk2OUxvQUNOTDZhTWpUM1gyM2hWWkg4N2I1XzF6R21fR0lUSEYycVlOVzBLd2NjcWtjNkR3OHoxQUtTME9N?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-05-18",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Doublon exact du texte de la ligne 5, pourvue d’un lien éditeur direct ; URL Google Actualités écartée."
+  },
+  {
+    "xlsx_row": 4,
+    "resource_id": "cf3bc2f6-b4f2-4239-8444-1a4f8e637b85",
+    "title": "Une première réunion publique à Ingré pour évoquer la future ligne électrique entre Chaingy et Dambron",
+    "url_from_file": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWVFnMThjU2NBNnZXNndkN2I4bGduYjE1RXJaRTI5SE1uS0ZHYWc4WmhyUjJOLXplNWsydFJvOGVLM2lQZTNkSklJUjhNcjJtcHdFaWs5WURfcldIZ0IxZ0tvWWU2X2dmZDdRMF83MmVDVm1wS3Y5Q3cwOG5xOXBacWJFQkk3Qk8tSkxmREIyM3BlY211NUNkYkVvaXBsT1Y2eE5MYWFSMWl0N3gtUjAtSXNkOE5oQjZFVmI4T1ZIYm9wSU1lejROZG9oUkxJUVJOTzRrMWNUeEFDM0U?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2026-05-17",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Reprise agrégée d’une réunion de concertation historique, sans URL éditoriale ; principaux éléments confirmés dans la ligne 51 et l’avis ligne 47."
+  },
+  {
+    "xlsx_row": 5,
+    "resource_id": "5970138a-5494-46a3-aa24-2fe5b1709a51",
+    "title": "\"A quoi bon faire une enquête publique ?\" : A Ingré, les riverains de la future ligne électrique s'interrogent",
+    "url_from_file": "https://www.ici.fr/emissions/l-info-d-ici-de-7h30-ici-orleans/a-quoi-bon-faire-une-enquete-publique-a-ingre-les-riverains-de-la-future-ligne-electrique-s-interrogent-7451720",
+    "domain": "ici.fr",
+    "discovered_at": "2026-05-05",
+    "decision": "used_as_evidence",
+    "source_id": "source_0003",
+    "evidence_ids": [
+      "evidence_0007",
+      "evidence_0008",
+      "evidence_0009",
+      "evidence_0010",
+      "evidence_0011",
+      "evidence_0012",
+      "evidence_0013",
+      "evidence_0014"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 6,
+    "resource_id": "c0c72c05-8180-424f-9843-00a61bb94209",
+    "title": "Enquête publique",
+    "url_from_file": "https://chaingy.fr/enquete-publique/",
+    "domain": "chaingy.fr",
+    "discovered_at": "2026-04-22",
+    "decision": "used_as_evidence",
+    "source_id": "source_0002",
+    "evidence_ids": [
+      "evidence_0006"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 7,
+    "resource_id": "3caf31c7-1696-4ca7-a631-3a07cb8542c6",
+    "title": "Insinuations racistes, menace de mort, insultes... : que s'est-il passé dans cette commune du Loiret avant les municipales ?",
+    "url_from_file": "https://www.larep.fr/artenay-45410/faits-divers/insinuations-racistes-menace-de-mort-insultes-que-s-est-il-passe-dans-cette-commune-du-loiret-avant-les-municipales_14956844/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-04-09",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Incidents de campagne municipale à Artenay sans lien étayé avec la liaison électrique."
+  },
+  {
+    "xlsx_row": 8,
+    "resource_id": "42881445-db4d-48ed-878c-08609099059b",
+    "title": "Fabienne Legrand succède à Éric David à mairie de Sougy",
+    "url_from_file": "https://www.larep.fr/sougy-45410/actualites/fabienne-legrand-succede-a-eric-david-a-mairie-de-sougy_14941852/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-24",
+    "decision": "used_as_evidence",
+    "source_id": "source_0013",
+    "evidence_ids": [
+      "evidence_0026"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 9,
+    "resource_id": "4e0f0bdf-9bdf-4533-a539-45b4cbe79d3c",
+    "title": "David Jacquet réélu à Artenay après une campagne marquée par d'importants incidents",
+    "url_from_file": "https://www.larep.fr/artenay-45410/actualites/david-jacquet-reelu-a-artenay-apres-une-campagne-marquee-par-d-importants-incidents_14934204/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-16",
+    "decision": "used_as_evidence",
+    "source_id": "source_0017",
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 10,
+    "resource_id": "6737c5f4-fdfb-4d30-be7b-51778d470507",
+    "title": "Résultats du premier tour des municipales à Ormes",
+    "url_from_file": "https://www.larep.fr/ormes-45140/actualites/resultats-du-premier-tour-des-municipales-a-ormes_14904836/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0008",
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 11,
+    "resource_id": "f2806833-b36c-40ca-ada1-23c99df8b203",
+    "title": "Résultats municipales à Huêtre (Loiret) – premier tour",
+    "url_from_file": "https://www.larep.fr/huetre-45520/actualites/resultats-municipales-a-huetre-loiret-premier-tour_14904646/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0009",
+    "evidence_ids": [
+      "evidence_0022"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 12,
+    "resource_id": "a1027ff1-b58d-4c94-99e9-93fdcc23b736",
+    "title": "Chaingy : les résultats complets du premier tour des municipales 2026",
+    "url_from_file": "https://www.larep.fr/chaingy-45380/actualites/chaingy-les-resultats-complets-du-premier-tour-des-municipales-2026_14904380/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0005",
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 13,
+    "resource_id": "ecd2912e-3311-4973-bee4-90c7c3b00469",
+    "title": "Élections municipales : résultats à Chevilly",
+    "url_from_file": "https://www.larep.fr/chevilly-45520/actualites/elections-municipales-resultats-a-chevilly_14904450/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0011",
+    "evidence_ids": [
+      "evidence_0024"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 14,
+    "resource_id": "01065bc9-e31d-4664-b8df-edbe783936a3",
+    "title": "Sougy : les résultats complets du premier tour des municipales 2026",
+    "url_from_file": "https://www.larep.fr/sougy-45410/actualites/sougy-les-resultats-complets-du-premier-tour-des-municipales-2026_14905018/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-15",
+    "decision": "used_as_evidence",
+    "source_id": "source_0014",
+    "evidence_ids": [
+      "evidence_0027"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 15,
+    "resource_id": "ed5d0edb-2e96-45dc-b7ad-47350c6fd8d5",
+    "title": "Jean-Pierre Durand, le maire de Chaingy, à la tête de la seule liste en lice pour les élections municipales",
+    "url_from_file": "https://www.larep.fr/chaingy-45380/actualites/jean-pierre-durand-le-maire-de-chaingy-a-la-tete-de-la-seule-liste-en-lice-pour-les-elections-municipales_14892388/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-11",
+    "decision": "used_as_evidence",
+    "source_id": "source_0006",
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 16,
+    "resource_id": "1bb41abb-d8c8-41c4-bd3a-aa5d9ac4e747",
+    "title": "Élections municipales 2026 : David Jacquet et son équipe se fixent trois priorités pour Artenay",
+    "url_from_file": "https://www.larep.fr/artenay-45410/actualites/elections-municipales-2026-david-jacquet-et-son-equipe-se-fixent-trois-priorites-pour-artenay_14883148/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-06",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Présentation de programme électoral général à Artenay sans prise de position sur la ligne ; résultats retenus ligne 9."
+  },
+  {
+    "xlsx_row": 17,
+    "resource_id": "a7a202bd-5b3c-478a-bde8-197044c5ade7",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances de Chaingy depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/chaingy-45380/actualites/impots-dette-investissements-3-infos-sur-les-finances-de-chaingy-depuis-2020_14878010/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-06",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales de Chaingy : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 18,
+    "resource_id": "bd78237d-7174-4fa6-a0d0-a136716357de",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances de Huêtre depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/huetre-45520/actualites/impots-dette-investissements-3-infos-sur-les-finances-de-huetre-depuis-2020_14878111/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-06",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales de Huêtre : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 19,
+    "resource_id": "11b7b387-e141-43ba-9dd2-70dc48243f64",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances d'Ormes depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/ormes-45140/actualites/impots-dette-investissements-3-infos-sur-les-finances-d-ormes-depuis-2020_14878404/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-06",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales d’Ormes : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 20,
+    "resource_id": "b0f9ac32-f68d-4acf-bd27-77bc095b0744",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances de Sougy depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/sougy-45410/actualites/impots-dette-investissements-3-infos-sur-les-finances-de-sougy-depuis-2020_14878555/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-06",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales de Sougy : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 21,
+    "resource_id": "6e4daeef-2828-41f6-93dd-824db64eaa78",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances de Poupry depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/poupry-28140/actualites/impots-dette-investissements-3-infos-sur-les-finances-de-poupry-depuis-2020_14879308/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-06",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales de Poupry : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 22,
+    "resource_id": "3db84f68-7543-48dd-ba3a-acef60352ed3",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances d'Artenay depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/artenay-45410/actualites/impots-dette-investissements-3-infos-sur-les-finances-d-artenay-depuis-2020_14878348/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-05",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales d’Artenay : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 23,
+    "resource_id": "e16f0146-6ba9-4a66-bf4c-b23e25a57862",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances de Dambron depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/dambron-28140/actualites/impots-dette-investissements-3-infos-sur-les-finances-de-dambron-depuis-2020_14879133/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-05",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales de Dambron : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 24,
+    "resource_id": "ac4fbbc8-9836-40d4-a4b7-6945fb5b25a9",
+    "title": "Impôts, dette, investissements : 3 infos sur les finances de Chevilly depuis 2020",
+    "url_from_file": "https://www.lamontagne.fr/chevilly-45520/actualites/impots-dette-investissements-3-infos-sur-les-finances-de-chevilly-depuis-2020_14878596/",
+    "domain": "lamontagne.fr",
+    "discovered_at": "2026-03-05",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Finances générales de Chevilly : pas de financement du projet RTE documenté."
+  },
+  {
+    "xlsx_row": 25,
+    "resource_id": "fb122e59-714a-4250-94c2-9ef9e62c8e5e",
+    "title": "Élections municipales 2026 : Annick Clément candidate à la mairie d'Artenay pour donner un nouvel élan à la commune",
+    "url_from_file": "https://www.larep.fr/artenay-45410/actualites/elections-municipales-2026-annick-clement-candidate-a-la-mairie-d-artenay-pour-donner-un-nouvel-elan-a-la-commune_14873141/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-04",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Candidature concurrente à Artenay sans prise de position sur la ligne ; pas d’ajout de position."
+  },
+  {
+    "xlsx_row": 26,
+    "resource_id": "246b7156-1c71-4708-8d78-328e45253f59",
+    "title": "Thierry Bracquemond candidat à un quatrième mandat à Huêtre",
+    "url_from_file": "https://www.larep.fr/huetre-45520/actualites/thierry-bracquemond-candidat-a-un-quatrieme-mandat-a-huetre_14872721/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-03",
+    "decision": "used_as_evidence",
+    "source_id": "source_0010",
+    "evidence_ids": [
+      "evidence_0023"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 27,
+    "resource_id": "2190b024-f65d-45af-810e-b813e485b39a",
+    "title": "Municipales 2026 : à Saint-Jean-de-la-Ruelle, le maire sortant présente un projet bâti sur le \"pragmatisme\"",
+    "url_from_file": "https://www.larep.fr/saint-jean-de-la-ruelle-45140/actualites/municipales-2026-a-saint-jean-de-la-ruelle-le-maire-sortant-presente-un-projet-bati-sur-le-pragmatisme_14872059/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-03-02",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Municipales à Saint-Jean-de-la-Ruelle ; commune absente de la liste des dix communes de l’enquête."
+  },
+  {
+    "xlsx_row": 28,
+    "resource_id": "717c6c25-4d1a-4eeb-b9de-2488edf0d33d",
+    "title": "Municipales 2026 : quels candidats se présentent à Dambron ? La liste complète",
+    "url_from_file": "https://www.lechorepublicain.fr/dambron-28140/actualites/municipales-2026-quels-candidats-se-presentent-a-dambron-la-liste-complete_14842371/",
+    "domain": "lechorepublicain.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste de candidatures à Dambron ; aucune fonction nouvelle ni prise de position RTE explicitement établie."
+  },
+  {
+    "xlsx_row": 29,
+    "resource_id": "a0f4c3d7-3471-408f-b972-ff009f3ca4d8",
+    "title": "Municipales 2026 : découvrez tous les candidats pour la commune d'Artenay",
+    "url_from_file": "https://www.larep.fr/artenay-45410/actualites/municipales-2026-decouvrez-tous-les-candidats-pour-la-commune-d-artenay_14841545/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste brute de candidats à Artenay ; seul le résultat municipal utile est qualifié ligne 9."
+  },
+  {
+    "xlsx_row": 30,
+    "resource_id": "b6764cae-5087-435f-8789-165d164f5e36",
+    "title": "Municipales 2026 : qui sont les candidats à Poupry ? Découvrez la liste complète",
+    "url_from_file": "https://www.lechorepublicain.fr/poupry-28140/actualites/municipales-2026-qui-sont-les-candidats-a-poupry-decouvrez-la-liste-complete_14842679/",
+    "domain": "lechorepublicain.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste de candidatures à Poupry ; chef de liste et position non identifiés."
+  },
+  {
+    "xlsx_row": 31,
+    "resource_id": "6d41290e-66a2-49f2-9763-f4e43d6f8212",
+    "title": "Municipales 2026 : tous les candidats en course à Ormes",
+    "url_from_file": "https://www.larep.fr/ormes-45140/actualites/municipales-2026-tous-les-candidats-en-course-a-ormes_14841769/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste de candidats à Ormes ; doublon du résultat et du chef de liste ligne 10."
+  },
+  {
+    "xlsx_row": 32,
+    "resource_id": "6cf92993-82d0-44a5-8632-ffbdf6e075d8",
+    "title": "Municipales 2026 : quels candidats se présentent à Sougy ? La liste complète",
+    "url_from_file": "https://www.larep.fr/sougy-45410/actualites/municipales-2026-quels-candidats-se-presentent-a-sougy-la-liste-complete_14841912/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste de candidats à Sougy ; résultat et élection du maire traités lignes 14 et 8."
+  },
+  {
+    "xlsx_row": 33,
+    "resource_id": "92f0176e-f8d6-4134-98bd-dc93f1d7a199",
+    "title": "Municipales 2026 : découvrez tous les candidats pour la commune d'Huêtre",
+    "url_from_file": "https://www.larep.fr/huetre-45520/actualites/municipales-2026-decouvrez-tous-les-candidats-pour-la-commune-d-huetre_14842054/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste de candidats à Huêtre ; résultat traité ligne 11."
+  },
+  {
+    "xlsx_row": 34,
+    "resource_id": "9d62413c-5680-4744-88ae-b6c3b639d0aa",
+    "title": "Municipales 2026 : voici tous les candidats qui se présentent à Chevilly",
+    "url_from_file": "https://www.larep.fr/chevilly-45520/actualites/municipales-2026-voici-tous-les-candidats-qui-se-presentent-a-chevilly_14841706/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Liste de candidats à Chevilly ; résultat traité ligne 13."
+  },
+  {
+    "xlsx_row": 35,
+    "resource_id": "cd8d9173-e040-4705-8baa-e378ba1e1658",
+    "title": "Beaucoup de listes, communes incertaines : ce qu'on peut retenir des candidatures pour les municipales dans la Métropole d'Orléans",
+    "url_from_file": "https://www.larep.fr/orleans-45000/actualites/beaucoup-de-listes-communes-incertaines-ce-qu-on-peut-retenir-des-candidatures-pour-les-municipales-dans-la-metropole-d-orleans_14836721/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-28",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Panorama général des municipales de la Métropole orléanaise, sans position liée au projet."
+  },
+  {
+    "xlsx_row": 36,
+    "resource_id": "17f1e60f-3307-4546-8664-2e1d42aa4b5b",
+    "title": "Municipales 2026 : il n'y aura qu'un seul tour dans (au moins) 93% des communes du Loiret",
+    "url_from_file": "https://www.francebleu.fr/centre-val-de-loire/loiret-45/orleans/municipales-2026-il-n-y-aura-qu-un-seul-tour-dans-au-moins-93-des-communes-du-loiret-3857119",
+    "domain": "francebleu.fr",
+    "discovered_at": "2026-02-27",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Panorama des élections départementales, sans élément directement pertinent sur le projet RTE."
+  },
+  {
+    "xlsx_row": 37,
+    "resource_id": "fbd87297-93e9-4ab0-9b2a-ed7dc5f28b7a",
+    "title": "Fabienne Legrand brigue le siège de maire à Sougy",
+    "url_from_file": "https://www.larep.fr/sougy-45410/actualites/fabienne-legrand-brigue-le-siege-de-maire-a-sougy_14836042/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-26",
+    "decision": "used_as_evidence",
+    "source_id": "source_0015",
+    "evidence_ids": [
+      "evidence_0028"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 38,
+    "resource_id": "903e399f-f488-4e8e-bc74-22ddb7b15b1f",
+    "title": "Dominique Lorcet et son équipe dévoilent leurs projets pour Chevilly",
+    "url_from_file": "https://www.larep.fr/chevilly-45520/actualites/dominique-lorcet-et-son-equipe-devoilent-leurs-projets-pour-chevilly_14835364/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-25",
+    "decision": "used_as_evidence",
+    "source_id": "source_0012",
+    "evidence_ids": [
+      "evidence_0025"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 39,
+    "resource_id": "44e81873-e798-418f-850a-131e3b2e2967",
+    "title": "\"Je vais devoir monter une liste\" : coup de théâtre à trois semaines des élections municipales dans une commune du Loiret",
+    "url_from_file": "https://www.larep.fr/artenay-45410/actualites/je-vais-devoir-monter-une-liste-coup-de-theatre-a-trois-semaines-des-elections-municipales-dans-une-commune-du-loiret_14828561/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-23",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Désaccord interne de campagne à Artenay sans lien établi avec la ligne électrique."
+  },
+  {
+    "xlsx_row": 40,
+    "resource_id": "c8b66a99-ce6f-4f20-86f0-39c82f7d96da",
+    "title": "La mairie des Ormes promet de rester vigilante sur le projet photovoltaïque à proximité de la commune",
+    "url_from_file": "https://www.lanouvellerepublique.fr/vienne/commune/les-ormes/la-mairie-des-ormes-promet-de-rester-vigilante-sur-le-projet-photovoltaique-a-proximite-de-la-commune-1771613898",
+    "domain": "lanouvellerepublique.fr",
+    "discovered_at": "2026-02-20",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "HOMONYMIE : Les Ormes (Vienne, 86) et projet photovoltaïque, pas Ormes (Loiret, 45) ; exclu."
+  },
+  {
+    "xlsx_row": 41,
+    "resource_id": "5b83b448-21b8-4f96-b8ca-430ce5b40c73",
+    "title": "Municipales 2026 : le maire de Dambron Philippe Lesage briguera-t-il un nouveau mandat ?",
+    "url_from_file": "https://www.lechorepublicain.fr/dambron-28140/actualites/municipales-2026-le-maire-de-dambron-philippe-lesage-briguera-t-il-un-nouveau-mandat_14682234/",
+    "domain": "lechorepublicain.fr",
+    "discovered_at": "2026-02-17",
+    "decision": "used_as_evidence",
+    "source_id": "source_0018",
+    "evidence_ids": [
+      "evidence_0031"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 42,
+    "resource_id": "10d4878f-4ca8-4570-bf56-24cc1fa4496d",
+    "title": "Municipales 2026 dans l'Eure-et-Loir : le maire de Dambron Philippe Lesage a-t-il l'intention de se représenter ?",
+    "url_from_file": "https://www.lechorepublicain.fr/dambron-28140/actualites/municipales-2026-dans-l-eure-et-loir-le-maire-de-dambron-philippe-lesage-a-t-il-l-intention-de-se-representer_14803491/",
+    "domain": "lechorepublicain.fr",
+    "discovered_at": "2026-02-17",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Doublon ancien de la question de représentation de Philippe Lesage, confirmé plus tard ligne 2."
+  },
+  {
+    "xlsx_row": 43,
+    "resource_id": "f0530549-54e6-461a-9eb1-741465512309",
+    "title": "Municipales 2026 dans le Loiret : le maire de Huêtre Thierry Bracquemond sera-t-il à nouveau candidat ?",
+    "url_from_file": "https://www.larep.fr/huetre-45520/actualites/municipales-2026-dans-le-loiret-le-maire-de-huetre-thierry-bracquemond-sera-t-il-a-nouveau-candidat_14785426/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-17",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Question de candidature devenue obsolète par le résultat du 15 mars 2026 ligne 11."
+  },
+  {
+    "xlsx_row": 44,
+    "resource_id": "f07eb84b-9379-4795-b0ad-252ca83a6274",
+    "title": "\"Je n’imaginais pas occuper cette fonction\" : Éric David, maire de Sougy depuis douze ans, ne repart pas",
+    "url_from_file": "https://www.larep.fr/sougy-45410/actualites/je-nimaginais-pas-occuper-cette-fonction-eric-david-maire-de-sougy-depuis-douze-ans-ne-repart-pas_14827129/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-17",
+    "decision": "used_as_evidence",
+    "source_id": "source_0016",
+    "evidence_ids": [
+      "evidence_0029"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 45,
+    "resource_id": "8a3714ed-bd3a-4b9c-9ce3-3c208257ba20",
+    "title": "Municipales 2026 dans le Loiret : le maire de Chaingy Jean Pierre Durand sera-t-il à nouveau candidat ?",
+    "url_from_file": "https://www.larep.fr/chaingy-45380/actualites/municipales-2026-dans-le-loiret-le-maire-de-chaingy-jean-pierre-durand-sera-t-il-a-nouveau-candidat_14785329/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-17",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Question de candidature ancienne de Jean-Pierre Durand, supersédée par la liste de mars ligne 15."
+  },
+  {
+    "xlsx_row": 46,
+    "resource_id": "cdd36f16-91ce-4156-8c0c-cacc3b037b9e",
+    "title": "Les priorités de Christian Dumas, maire sortant d'Ingré, et de sa liste pour les municipales",
+    "url_from_file": "https://www.larep.fr/ingre-45140/actualites/les-priorites-de-christian-dumas-maire-sortant-d-ingre-et-de-sa-liste-pour-les-municipales_14829053/",
+    "domain": "larep.fr",
+    "discovered_at": "2026-02-12",
+    "decision": "used_as_evidence",
+    "source_id": "source_0007",
+    "evidence_ids": [
+      "evidence_0020"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 47,
+    "resource_id": "de266f60-6a05-4e8c-8138-4a6a357f29f5",
+    "title": "Restructuration du réseau électrique entre Chaingy et Dambron : avis de concertation préalable du public",
+    "url_from_file": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnNRWElJbTQ3V19RUk80TUhRNnZaVFdPeUpzRnd6UnYtSkR1alg1dXR2eDhhc1dZNW9RTkhhRTBpRGo3RWhCdDV0ZS1waVBpSi1pb3NOZUlETjBCYzdjeEVCaS04cy1heXNFS3lCdVoxcTFCWG04bG1KVURMNmxYRjZieXJFcEt0QmxSVG9vd010dHVQeDdqdDlEZUlyQ3NoZWoxWjNsRWZvenZVbDMzek1vQnZ6QQ?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2025-12-18",
+    "decision": "used_as_evidence",
+    "source_id": "source_0004",
+    "evidence_ids": [
+      "evidence_0015",
+      "evidence_0016",
+      "evidence_0017"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  },
+  {
+    "xlsx_row": 48,
+    "resource_id": "c1f2d9bf-0bd4-439a-9ff9-1bd29fd037fe",
+    "title": "Électricité : du changement sur les lignes aériennes entre Chaingy et l'Eure-et-Loir",
+    "url_from_file": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckdyZHhLVTJOU3F1b3VPeUpVdVVMYWlLTFB1czRlMmRvcTZPNTc5Z253MnpwTkFIREZyRUFiRGlORVphSHFKNXBqRkVfMzhlN1liSzZDbThWS0JGVVZreHB4TWxMNk5mcXdWMGN1Y2tFSU92cTFCNHQ4ZGV0YWMzSEZFSWZtUXZ4LVExN2hDMURZNHVPNVFidzFWMXJ6TE96cDU1MG1vMlVPTjZWajhzVllsTkxBNWg3TzJSV3hlZjRGbWwzeGo2VGJIMHh4X1h5?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2025-12-16",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Reprise Google Actualités du contenu paru sur La République du Centre, lien direct ligne 51."
+  },
+  {
+    "xlsx_row": 49,
+    "resource_id": "b1037364-38b5-4058-9820-15f0001fd5c3",
+    "title": "Une première réunion publique à Ingré pour évoquer la future ligne électrique entre Chaingy et Dambron",
+    "url_from_file": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVEoyZElpRkp4aDEyOS1UT0xzck56Wk9PX2pBVFJrYkRsYmtjempYSVZxV0J3RXpJU3NIWmw5RWlpdkhJTGtqbjRMakVzRERrYmpuN0lNXzIxTWExc2hnNkMzbEFKWFI4a0E5cldwMzcwQW1Oc1NwUEJENVZQdGw5YllVQXBXM011ZFNCUE5WcE9rWWVDNHlfYVdfcWNmU2Z3Vmt5RXMxN3h4X3hfbGYwMmpRSGVwQXdtRHYyaHBnWWk1U2U4bHJoZzh6amtFSmMyTEtqamdFSnQyRkxWR1ZCT08tbEY?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "domain": "news.google.com",
+    "discovered_at": "2025-12-16",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Reprise agrégée d’une annonce de réunion ancienne, sans URL éditoriale et partiellement couverte par la ligne 51."
+  },
+  {
+    "xlsx_row": 50,
+    "resource_id": "157374c5-b504-4153-813d-9196b2578690",
+    "title": "\"Le Loiret vu d'en haut\" : de formidables photos prises avec un drone dans le nouveau magazine de La République du Centre",
+    "url_from_file": "https://www.larep.fr/orleans-45000/loisirs/le-loiret-vu-d-en-haut-de-formidables-photos-prises-avec-un-drone-dans-le-nouveau-magazine-de-la-republique-du-centre_14594770/",
+    "domain": "larep.fr",
+    "discovered_at": "2024-11-30",
+    "decision": "excluded",
+    "source_id": null,
+    "evidence_ids": [],
+    "reason": "Article photographique sur le Loiret, sans lien factuel avec le projet de ligne électrique."
+  },
+  {
+    "xlsx_row": 51,
+    "resource_id": "226af6e8-00a8-4d6c-8401-db3198763b13",
+    "title": "Électricité : du changement sur les lignes aériennes entre Chaingy et l'Eure-et-Loir",
+    "url_from_file": "https://www.larep.fr/chaingy-45380/loisirs/electricite-du-changement-sur-les-lignes-aeriennes-entre-chaingy-et-l-eure-et-loir_14556649/",
+    "domain": "larep.fr",
+    "discovered_at": "2024-09-02",
+    "decision": "used_as_evidence",
+    "source_id": "source_0001",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0002",
+      "evidence_0003",
+      "evidence_0004",
+      "evidence_0005"
+    ],
+    "reason": "Exploitée pour un fait ou une fonction explicitement documenté ; aucune position implicite inférée."
+  }
+]

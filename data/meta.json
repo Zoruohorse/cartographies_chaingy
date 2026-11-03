@@ -1,0 +1,150 @@
+{
+  "id": "project_chaingy_dambron",
+  "title": "Cartographie interactive — Chaingy–Dambron",
+  "subtitle": "Restructuration du réseau électrique entre Chaingy (45) et Dambron (28) : projet de ligne aérienne 400 kV, acteurs territoriaux et enquête publique de 2026.",
+  "last_updated": "2026-11-03",
+  "cutoff_date": "2026-08-10",
+  "data_notice": "Établi exclusivement à partir du fichier Carto Chaingy-Dambron.xlsx (50 ressources, trouvées jusqu’au 10 août 2026). Les URLs sont celles du fichier, sans consultation directe supplémentaire ; dates de trouvaille distinctes des dates de publication. Position non renseignée ≠ neutralité ou soutien.",
+  "griefs": [
+    {
+      "title": "⏱️ Calendrier de chantier non stabilisé",
+      "text": "Les sources 2024 annoncent un démarrage en 2028 et une mise en service en 2030, tandis que l’article ICI du 5 mai 2026 évoque un début des travaux en juin 2027. La divergence n’est pas résolue dans le corpus : aucune date de travaux définitive ne peut être certifiée.",
+      "evidence_ids": [
+        "evidence_0003",
+        "evidence_0009"
+      ]
+    },
+    {
+      "title": "📢 Information et participation du public à Ingré",
+      "text": "Des riverains proches du futur tracé déclarent manquer d’informations. L’enquête publique unique est annoncée pour la période du 4 mai au 11 juin 2026. Aucune mobilisation opposée structurée n’est attestée par les ressources.",
+      "evidence_ids": [
+        "evidence_0010",
+        "evidence_0006",
+        "evidence_0014"
+      ]
+    },
+    {
+      "title": "⚕️ Préoccupations sanitaires exprimées",
+      "text": "Des riverains d’Ingré interrogent les conséquences sanitaires d’une ligne 400 kV. L’affirmation rassurante de RTE dans la presse doit rester présentée comme celle de l’opérateur, faute de mesure ou d’expertise indépendante fournie.",
+      "evidence_ids": [
+        "evidence_0010",
+        "evidence_0013"
+      ]
+    },
+    {
+      "title": "🌾 Paysages, agriculture et environnement",
+      "text": "Le choix du fuseau doit intégrer les impacts paysagers, le cadre de vie, la biodiversité et les activités agricoles. Le corpus ne fournit ni décompte de parcelles impactées, ni inventaire environnemental final, ni liste d’opposants agricoles constitués.",
+      "evidence_ids": [
+        "evidence_0017",
+        "evidence_0005"
+      ]
+    },
+    {
+      "title": "⚖️ Procédure DUP et urbanisme",
+      "text": "La mairie de Chaingy annonce une enquête publique unique interdépartementale préalable à la DUP et à la mise en compatibilité du PLUi Cœur de Beauce du 4 mai au 11 juin 2026. Une DUP définitivement obtenue n’est pas démontrée par les ressources.",
+      "evidence_ids": [
+        "evidence_0006",
+        "evidence_0007"
+      ]
+    },
+    {
+      "title": "🏗️ Modernisation électrique et coût annoncé",
+      "text": "RTE propose environ 30 km de ligne aérienne 400 kV en substitution de deux lignes 225 kV anciennes. Le montant d’environ 50 M€ est une estimation attribuée à RTE dans un article de mai 2026. Aucune valeur de puissance en MW n’est établie.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0002",
+        "evidence_0008"
+      ]
+    }
+  ],
+  "vigilance": [
+    "Écart non résolu entre les prévisions de début de travaux (2028 dans les sources 2024 ; juin 2027 dans la presse de mai 2026). Ne pas confondre prévision et autorisation définitive.",
+    "La DUP ne peut pas être présumée accordée : l’enquête publique annoncée du 4 mai au 11 juin 2026 est préalable à la décision.",
+    "Les positions des municipalités et nouveaux élus municipaux ne sont pas documentées dans ce corpus : la participation aux élections ou l’appartenance au périmètre de l’enquête ne prouve aucun soutien ni opposition.",
+    "Attention au projet Enertrag de batteries lithium à Dambron : la contestation du maire Philippe Lesage concerne cette installation distincte, et non la ligne RTE.",
+    "L’article « Les Ormes » dans la Vienne (86) ne concerne pas la commune d’Ormes du Loiret (45) : faux positif territorial exclu du référentiel (voir audit/corpus-review.json, ligne Excel 40).",
+    "L’avis de concertation de 2024 et plusieurs reprises d’articles n’existent dans l’Excel que sous URL Google Actualités. Les extraits sont traçables par ligne du fichier, mais les URLs canoniques éditoriales restent à qualifier.",
+    "Les articles budgétaires communaux du lot (lignes Excel 17 à 24, voir audit/corpus-review.json) ne décrivent pas le financement du projet RTE. Aucun coût communal ni contribution locale ne doit en être inféré.",
+    "La question sanitaire rapportée à Ingré exprime une inquiétude, pas un résultat scientifique établi ; l’assertion de RTE est attribuée à RTE."
+  ],
+  "vigilance_evidence_ids": [
+    [
+      "evidence_0003",
+      "evidence_0009"
+    ],
+    [
+      "evidence_0006"
+    ],
+    [
+      "evidence_0007",
+      "evidence_0018",
+      "evidence_0021",
+      "evidence_0030",
+      "evidence_0026"
+    ],
+    [
+      "evidence_0032"
+    ],
+    [],
+    [
+      "evidence_0015",
+      "evidence_0016"
+    ],
+    [],
+    [
+      "evidence_0010",
+      "evidence_0013"
+    ]
+  ],
+  "source_descriptions": [
+    "La République du Centre — Électricité : du changement sur les lignes aériennes entre Chaingy et l'Eure-et-Loir",
+    "Mairie de Chaingy — Enquête publique",
+    "ICI Orléans — \"A quoi bon faire une enquête publique ?\" : A Ingré, les riverains de la future ligne électrique s'interrogent",
+    "Google Actualités (agrégateur) — Restructuration du réseau électrique entre Chaingy et Dambron : avis de concertation préalable du public",
+    "La République du Centre — Chaingy : les résultats complets du premier tour des municipales 2026",
+    "La République du Centre — Jean-Pierre Durand, le maire de Chaingy, à la tête de la seule liste en lice pour les élections municipales",
+    "La République du Centre — Les priorités de Christian Dumas, maire sortant d'Ingré, et de sa liste pour les municipales",
+    "La République du Centre — Résultats du premier tour des municipales à Ormes",
+    "La République du Centre — Résultats municipales à Huêtre (Loiret) – premier tour",
+    "La République du Centre — Thierry Bracquemond candidat à un quatrième mandat à Huêtre",
+    "La République du Centre — Élections municipales : résultats à Chevilly",
+    "La République du Centre — Dominique Lorcet et son équipe dévoilent leurs projets pour Chevilly",
+    "La République du Centre — Fabienne Legrand succède à Éric David à mairie de Sougy",
+    "La République du Centre — Sougy : les résultats complets du premier tour des municipales 2026",
+    "La République du Centre — Fabienne Legrand brigue le siège de maire à Sougy",
+    "La République du Centre — \"Je n’imaginais pas occuper cette fonction\" : Éric David, maire de Sougy depuis douze ans, ne repart pas",
+    "La République du Centre — David Jacquet réélu à Artenay après une campagne marquée par d'importants incidents",
+    "L’Écho Républicain — Municipales 2026 : le maire de Dambron Philippe Lesage briguera-t-il un nouveau mandat ?",
+    "Google Actualités (agrégateur) — Dambron : l'opposition municipale face au projet Enertrag de stockage d'énergie par batteries lithium"
+  ],
+  "project_facts": {
+    "voltage_kv": 400,
+    "length_km_approx": 30,
+    "replaced_lines": {
+      "count": 2,
+      "voltage_kv": 225
+    },
+    "existing_225kv_lines_count": 3,
+    "communes_concerned": 10,
+    "public_inquiry": {
+      "from": "2026-05-04",
+      "to": "2026-06-11",
+      "status": "announced_in_documents"
+    },
+    "investment_eur_approx": 50000000,
+    "construction_start_forecasts": [
+      "2027-06",
+      "2028"
+    ],
+    "commissioning_forecast_from_2024": "2030",
+    "project_status_as_of_cutoff": "enquête publique annoncée, DUP non démontrée"
+  },
+  "project_fact_evidence_ids": [
+    "evidence_0001",
+    "evidence_0003",
+    "evidence_0009",
+    "evidence_0008",
+    "evidence_0007",
+    "evidence_0006"
+  ]
+}

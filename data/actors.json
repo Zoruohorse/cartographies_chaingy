@@ -1,0 +1,750 @@
+[
+  {
+    "id": "project_chaingy_dambron",
+    "type": "project",
+    "name": "Restructuration électrique Chaingy–Dambron",
+    "short_name": "Chaingy–Dambron",
+    "description": "Création projetée d’une ligne électrique aérienne 400 kV de l’ordre de 30 km et dépose de deux lignes aériennes 225 kV, entre le Loiret (45) et l’Eure-et-Loir (28).",
+    "roles": [],
+    "categories": [
+      "project"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": []
+  },
+  {
+    "id": "actor_0001",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau public français de transport d’électricité et maître d’ouvrage de la restructuration Chaingy–Dambron.",
+    "roles": [
+      {
+        "label": "Maître d’ouvrage"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0002",
+      "evidence_0003",
+      "evidence_0006",
+      "evidence_0008",
+      "evidence_0009",
+      "evidence_0013"
+    ]
+  },
+  {
+    "id": "actor_0002",
+    "type": "person",
+    "name": "Pierre Deknuydt",
+    "short_name": "P. Deknuydt",
+    "description": "Responsable du projet Chaingy–Dambron pour RTE, intervenant pendant la concertation initiale.",
+    "roles": [
+      {
+        "label": "Responsable du projet RTE"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0004",
+      "evidence_0005"
+    ]
+  },
+  {
+    "id": "actor_0003",
+    "type": "person",
+    "name": "Laurent Brimboeuf",
+    "short_name": "L. Brimboeuf",
+    "description": "Responsable de projets en ingénierie des ouvrages de transport électrique chez RTE, intervenant dans le contexte de l’enquête publique de mai 2026.",
+    "roles": [
+      {
+        "label": "Responsable de projets RTE"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0011",
+      "evidence_0012"
+    ]
+  },
+  {
+    "id": "actor_0004",
+    "type": "collective",
+    "name": "Riverains concernés d’Ingré",
+    "short_name": "Riverains Ingré",
+    "description": "Groupe descriptif, non association constituée : riverains proches du futur tracé interrogés par ICI Orléans, exprimant des interrogations sur l’information et la santé.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0010"
+    ]
+  },
+  {
+    "id": "actor_0005",
+    "type": "organization",
+    "name": "Commission nationale du débat public (CNDP)",
+    "short_name": "CNDP",
+    "description": "Autorité mentionnée dans l’avis de concertation préalable de 2024 pour l’encadrement de la procédure et la désignation des garants.",
+    "roles": [],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0015",
+      "evidence_0016"
+    ]
+  },
+  {
+    "id": "actor_0006",
+    "type": "person",
+    "name": "Jean-Claude Ruysschaert",
+    "short_name": "J.-C. Ruysschaert",
+    "description": "Garant de la concertation préalable désigné selon l’avis de 2024 reproduit dans l’Excel ; URL originale de l’avis à qualifier.",
+    "roles": [
+      {
+        "label": "Garant de concertation"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0016"
+    ]
+  },
+  {
+    "id": "actor_0007",
+    "type": "person",
+    "name": "Estelle Gresle",
+    "short_name": "E. Gresle",
+    "description": "Garante de la concertation préalable désignée selon l’avis de 2024 reproduit dans l’Excel ; URL originale de l’avis à qualifier.",
+    "roles": [
+      {
+        "label": "Garante de concertation"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0016"
+    ]
+  },
+  {
+    "id": "actor_0008",
+    "type": "organization",
+    "name": "Commune de Chaingy",
+    "short_name": "Chaingy (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0009",
+    "type": "organization",
+    "name": "Commune d’Ingré",
+    "short_name": "Ingré (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0010",
+    "type": "organization",
+    "name": "Commune d’Ormes",
+    "short_name": "Ormes (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0011",
+    "type": "organization",
+    "name": "Commune de Gidy",
+    "short_name": "Gidy (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0012",
+    "type": "organization",
+    "name": "Commune de Huêtre",
+    "short_name": "Huêtre (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0013",
+    "type": "organization",
+    "name": "Commune de Chevilly",
+    "short_name": "Chevilly (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0014",
+    "type": "organization",
+    "name": "Commune de Sougy",
+    "short_name": "Sougy (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0015",
+    "type": "organization",
+    "name": "Commune d’Artenay",
+    "short_name": "Artenay (45)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0016",
+    "type": "organization",
+    "name": "Commune de Poupry",
+    "short_name": "Poupry (28)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0017",
+    "type": "organization",
+    "name": "Commune de Dambron",
+    "short_name": "Dambron (28)",
+    "description": "Collectivité territoriale concernée par le périmètre de l’enquête publique unique de 2026 ; aucune position institutionnelle sur le tracé n’est documentée dans le corpus.",
+    "roles": [
+      {
+        "label": "Commune du périmètre de l’enquête publique"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0018",
+    "type": "person",
+    "name": "Jocelyne Gaschaud",
+    "short_name": "J. Gaschaud",
+    "description": "Tête de liste « Unis pour Chaingy », liste victorieuse du scrutin municipal du 15 mars 2026. L’élection formelle au poste de maire n’est pas établie dans le fichier.",
+    "roles": [
+      {
+        "label": "Tête de liste élue au conseil municipal de Chaingy"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0018"
+    ]
+  },
+  {
+    "id": "actor_0019",
+    "type": "person",
+    "name": "Jean-Pierre Durand",
+    "short_name": "J.-P. Durand",
+    "description": "Maire sortant de Chaingy en mars 2026, également inscrit sur la liste « Unis pour Chaingy ». Aucune position sur le projet RTE n’est établie.",
+    "roles": [
+      {
+        "label": "Maire sortant de Chaingy"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0019"
+    ]
+  },
+  {
+    "id": "actor_0020",
+    "type": "person",
+    "name": "Christian Dumas",
+    "short_name": "C. Dumas",
+    "description": "Maire sortant d’Ingré lors de la campagne municipale de février 2026 ; aucune prise de position sur Chaingy–Dambron relevée.",
+    "roles": [
+      {
+        "label": "Maire sortant d’Ingré"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0020"
+    ]
+  },
+  {
+    "id": "actor_0021",
+    "type": "person",
+    "name": "Alain Touchard",
+    "short_name": "A. Touchard",
+    "description": "Tête de la seule liste élue à Ormes le 15 mars 2026. Élection ultérieure au poste de maire non établie dans le document.",
+    "roles": [
+      {
+        "label": "Tête de liste élue au conseil municipal d’Ormes"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0021"
+    ]
+  },
+  {
+    "id": "actor_0022",
+    "type": "person",
+    "name": "Thierry Bracquemond",
+    "short_name": "T. Bracquemond",
+    "description": "Maire sortant de Huêtre et tête de liste élue aux municipales du 15 mars 2026. Aucune position sur la ligne RTE n’est documentée.",
+    "roles": [
+      {
+        "label": "Maire sortant de Huêtre"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0022",
+      "evidence_0023"
+    ]
+  },
+  {
+    "id": "actor_0023",
+    "type": "person",
+    "name": "Dominique Lorcet",
+    "short_name": "D. Lorcet",
+    "description": "Conseiller municipal sortant de Chevilly et tête de la seule liste élue aux municipales du 15 mars 2026 ; accession à la mairie non vérifiée dans le lot.",
+    "roles": [
+      {
+        "label": "Tête de liste élue au conseil municipal de Chevilly"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0024",
+      "evidence_0025"
+    ]
+  },
+  {
+    "id": "actor_0024",
+    "type": "person",
+    "name": "Fabienne Legrand",
+    "short_name": "F. Legrand",
+    "description": "Ancienne première adjointe et vice-présidente de la communauté de communes de la Beauce loirétaine ; élue maire de Sougy le 22 mars 2026. Aucune position sur RTE documentée.",
+    "roles": [
+      {
+        "label": "Maire de Sougy depuis le 22 mars 2026"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0026",
+      "evidence_0027",
+      "evidence_0028"
+    ]
+  },
+  {
+    "id": "actor_0025",
+    "type": "person",
+    "name": "Éric David",
+    "short_name": "É. David",
+    "description": "Ancien maire de Sougy (mandats précédant mars 2026), ayant annoncé ne pas se représenter en 2026 ; aucune position sur la ligne documentée.",
+    "roles": [
+      {
+        "label": "Ancien maire de Sougy"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0029"
+    ]
+  },
+  {
+    "id": "actor_0026",
+    "type": "person",
+    "name": "David Jacquet",
+    "short_name": "D. Jacquet",
+    "description": "Maire d’Artenay, dont la liste a remporté les municipales du 15 mars 2026 (57,43 %). Aucune position sur le projet RTE n’est attestée.",
+    "roles": [
+      {
+        "label": "Maire d’Artenay, liste réélue en 2026"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0030"
+    ]
+  },
+  {
+    "id": "actor_0027",
+    "type": "person",
+    "name": "Philippe Lesage",
+    "short_name": "P. Lesage",
+    "description": "Maire de Dambron cité en août 2026. S’oppose explicitement au projet de batteries lithium d’Enertrag, distinct de la ligne 400 kV RTE ; position sur Chaingy–Dambron inconnue.",
+    "roles": [
+      {
+        "label": "Maire de Dambron"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032",
+      "evidence_0031"
+    ]
+  },
+  {
+    "id": "actor_0028",
+    "type": "organization",
+    "name": "Enertrag",
+    "short_name": "Enertrag",
+    "description": "Entreprise allemande citée pour un projet de stockage d’électricité par batteries lithium près du poste 400 kV de Dambron. Projet juridiquement distinct de la ligne RTE.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0029",
+    "type": "issue",
+    "name": "Projet de batteries Enertrag à Dambron",
+    "short_name": "Batteries Dambron",
+    "description": "Projet de stockage d’énergie par batteries lithium présenté dans un extrait de presse d’août 2026 ; ne constitue pas une composante de la restructuration RTE.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0030",
+    "type": "infrastructure",
+    "name": "Poste électrique de Chaingy",
+    "short_name": "Poste Chaingy",
+    "description": "Poste du réseau de transport constituant une extrémité de la liaison à restructurer.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0031",
+    "type": "infrastructure",
+    "name": "Poste électrique de Dambron",
+    "short_name": "Poste Dambron",
+    "description": "Poste de transport à l’autre extrémité de la liaison ; une proposition distincte de stockage lithium est évoquée à proximité.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001",
+      "evidence_0032"
+    ]
+  },
+  {
+    "id": "actor_0032",
+    "type": "planning_document",
+    "name": "PLUi Cœur de Beauce",
+    "short_name": "PLUi Cœur de Beauce",
+    "description": "Document d’urbanisme dont la mise en compatibilité est explicitement mentionnée dans l’annonce d’enquête publique de la mairie de Chaingy.",
+    "roles": [],
+    "categories": [
+      "context"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0006"
+    ]
+  },
+  {
+    "id": "actor_0033",
+    "type": "issue",
+    "name": "Information des riverains d’Ingré",
+    "short_name": "Information Ingré",
+    "description": "Préoccupations rapportées sur le manque d’informations et la participation à l’enquête publique.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": []
+  },
+  {
+    "id": "actor_0034",
+    "type": "issue",
+    "name": "Préoccupations sanitaires au voisinage de la ligne",
+    "short_name": "Santé / ligne",
+    "description": "Questionnements de riverains sur l’effet sanitaire potentiel d’une liaison aérienne 400 kV ; aucun risque n’est établi par les seules ressources du lot.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": []
+  },
+  {
+    "id": "actor_0035",
+    "type": "issue",
+    "name": "Calendrier de travaux contradictoire",
+    "short_name": "Calendrier",
+    "description": "Deux calendriers apparaissent dans les articles fournis : travaux 2028 et mise en service 2030 ; ou démarrage juin 2027 après autorisation attendue fin 2026.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": []
+  },
+  {
+    "id": "actor_0036",
+    "type": "issue",
+    "name": "Paysages, milieux naturels et emprises agricoles",
+    "short_name": "Impacts locaux",
+    "description": "Enjeux cités lors de la concertation initiale comme critères d’appréciation du fuseau de moindre impact, sans opposition structurée identifiée.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": []
+  },
+  {
+    "id": "actor_0037",
+    "type": "issue",
+    "name": "Enquête publique et déclaration d’utilité publique",
+    "short_name": "Enquête / DUP",
+    "description": "Enquête unique annoncée du 4 mai au 11 juin 2026, préalable à la DUP et à la mise en compatibilité de l’urbanisme.",
+    "roles": [],
+    "categories": [
+      "griefs"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": []
+  },
+  {
+    "id": "actor_0038",
+    "type": "media",
+    "name": "ICI Orléans",
+    "short_name": "ICI Orléans",
+    "description": "Éditeur, support ou agrégateur de ressources reprises dans le lot Excel ; ce n’est pas un acteur positionné sur la ligne.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0007"
+    ]
+  },
+  {
+    "id": "actor_0039",
+    "type": "media",
+    "name": "La République du Centre",
+    "short_name": "La République",
+    "description": "Éditeur, support ou agrégateur de ressources reprises dans le lot Excel ; ce n’est pas un acteur positionné sur la ligne.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0001"
+    ]
+  },
+  {
+    "id": "actor_0040",
+    "type": "media",
+    "name": "Mairie de Chaingy",
+    "short_name": "Chaingy.fr",
+    "description": "Éditeur, support ou agrégateur de ressources reprises dans le lot Excel ; ce n’est pas un acteur positionné sur la ligne.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0006"
+    ]
+  },
+  {
+    "id": "actor_0041",
+    "type": "media",
+    "name": "L’Écho Républicain",
+    "short_name": "L’Écho",
+    "description": "Éditeur, support ou agrégateur de ressources reprises dans le lot Excel ; ce n’est pas un acteur positionné sur la ligne.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0031"
+    ]
+  },
+  {
+    "id": "actor_0042",
+    "type": "media",
+    "name": "Google Actualités — extraits non canoniques",
+    "short_name": "Google Actualités",
+    "description": "Éditeur, support ou agrégateur de ressources reprises dans le lot Excel ; ce n’est pas un acteur positionné sur la ligne.",
+    "roles": [],
+    "categories": [
+      "sources"
+    ],
+    "updated_at": "2026-11-03",
+    "evidence_ids": [
+      "evidence_0015"
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+{
+  "template_repository": "https://github.com/Zoruohorse/cartographies_celtic",
+  "source_xlsx": "Carto Chaingy-Dambron.xlsx",
+  "rows_in_xlsx": 50,
+  "status": "PASS",
+  "counts": {
+    "actors": 43,
+    "claims": 4,
+    "evidence": 32,
+    "relations": 44,
+    "sources": 19,
+    "cards": 27,
+    "with_proof": 27,
+    "with_publisher_url": 24
+  },
+  "coverage": [
+    {
+      "id": "actor_0001",
+      "name": "RTE",
+      "proof_count": 11,
+      "publisher_url_count": 11,
+      "position": "favorable"
+    },
+    {
+      "id": "actor_0002",
+      "name": "Pierre Deknuydt",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": "favorable"
+    },
+    {
+      "id": "actor_0003",
+      "name": "Laurent Brimboeuf",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": "favorable"
+    },
+    {
+      "id": "actor_0004",
+      "name": "Riverains concernés d’Ingré",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": "neutral"
+    },
+    {
+      "id": "actor_0005",
+      "name": "Commission nationale du débat public (CNDP)",
+      "proof_count": 2,
+      "publisher_url_count": 0,
+      "position": null
+    },
+    {
+      "id": "actor_0006",
+      "name": "Jean-Claude Ruysschaert",
+      "proof_count": 1,
+      "publisher_url_count": 0,
+      "position": null
+    },
+    {
+      "id": "actor_0007",
+      "name": "Estelle Gresle",
+      "proof_count": 1,
+      "publisher_url_count": 0,
+      "position": null
+    },
+    {
+      "id": "actor_0008",
+      "name": "Commune de Chaingy",
+      "proof_count": 3,
+      "publisher_url_count": 3,
+      "position": null
+    },
+    {
+      "id": "actor_0009",
+      "name": "Commune d’Ingré",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": null
+    },
+    {
+      "id": "actor_0010",
+      "name": "Commune d’Ormes",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": null
+    },
+    {
+      "id": "actor_0011",
+      "name": "Commune de Gidy",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0012",
+      "name": "Commune de Huêtre",
+      "proof_count": 3,
+      "publisher_url_count": 3,
+      "position": null
+    },
+    {
+      "id": "actor_0013",
+      "name": "Commune de Chevilly",
+      "proof_count": 3,
+      "publisher_url_count": 3,
+      "position": null
+    },
+    {
+      "id": "actor_0014",
+      "name": "Commune de Sougy",
+      "proof_count": 4,
+      "publisher_url_count": 4,
+      "position": null
+    },
+    {
+      "id": "actor_0015",
+      "name": "Commune d’Artenay",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": null
+    },
+    {
+      "id": "actor_0016",
+      "name": "Commune de Poupry",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0017",
+      "name": "Commune de Dambron",
+      "proof_count": 2,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0018",
+      "name": "Jocelyne Gaschaud",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0019",
+      "name": "Jean-Pierre Durand",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0020",
+      "name": "Christian Dumas",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0021",
+      "name": "Alain Touchard",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0022",
+      "name": "Thierry Bracquemond",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": null
+    },
+    {
+      "id": "actor_0023",
+      "name": "Dominique Lorcet",
+      "proof_count": 2,
+      "publisher_url_count": 2,
+      "position": null
+    },
+    {
+      "id": "actor_0024",
+      "name": "Fabienne Legrand",
+      "proof_count": 3,
+      "publisher_url_count": 3,
+      "position": null
+    },
+    {
+      "id": "actor_0025",
+      "name": "Éric David",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0026",
+      "name": "David Jacquet",
+      "proof_count": 1,
+      "publisher_url_count": 1,
+      "position": null
+    },
+    {
+      "id": "actor_0027",
+      "name": "Philippe Lesage",
+      "proof_count": 2,
+      "publisher_url_count": 1,
+      "position": null
+    }
+  ],
+  "browser_tests": {
+    "cards_initial": 27,
+    "card_count": "27 acteurs affichés sur 27",
+    "card_popup": true,
+    "card_proofs": 3,
+    "card_source_links": 3,
+    "griefs": 6,
+    "grief_proofs": 14,
+    "vigilances": 8,
+    "source_links": 19,
+    "search_Gaschaud": 2,
+    "cards_errors": [],
+    "network_nodes": 43,
+    "network_links": 44,
+    "network_count": "43 nœuds affichés sur 43",
+    "network_panel": "right active",
+    "network_proofs": 3,
+    "network_search_count": "12 nœuds affichés sur 43",
+    "network_errors": []
+  },
+  "audit_file": "audit/corpus-review.json"
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "id": "evidence_0001",
+    "type": "reported_fact",
+    "text": "Le projet prévoit une nouvelle ligne aérienne 400 kV d’environ 30 km entre Chaingy et Dambron, pour remplacer deux des trois lignes aériennes 225 kV existantes.",
+    "source_id": "source_0001",
+    "source_ids": [
+      "source_0001"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 51, colonne F",
+    "xlsx_row": 51,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0002",
+    "type": "reported_fact",
+    "text": "Selon les explications attribuées à RTE, deux des trois lignes 225 kV remontent à 1936 et les capacités de transit doivent être renforcées.",
+    "source_id": "source_0001",
+    "source_ids": [
+      "source_0001"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 51, colonne F",
+    "xlsx_row": 51,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0003",
+    "type": "reported_fact",
+    "text": "L’article de 2024 annonce des travaux en 2028 et une mise en service en 2030 ; ces dates constituent une prévision historique, non une décision définitive.",
+    "source_id": "source_0001",
+    "source_ids": [
+      "source_0001"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 51, colonne F",
+    "xlsx_row": 51,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0004",
+    "type": "quote",
+    "text": "Ce projet de renforcement du réseau électrique entre Chaingy et Dambron entre dans ce cadre.",
+    "source_id": "source_0001",
+    "source_ids": [
+      "source_0001"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Ligne 51, propos attribués à Pierre Deknuydt",
+    "xlsx_row": 51,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0005",
+    "type": "reported_fact",
+    "text": "Pierre Deknuydt indique que plusieurs fuseaux d’implantation sont soumis à la concertation et que les observations du public doivent pouvoir influer sur leur choix.",
+    "source_id": "source_0001",
+    "source_ids": [
+      "source_0001"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 51, colonne F",
+    "xlsx_row": 51,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0006",
+    "type": "reported_fact",
+    "text": "La mairie de Chaingy annonce une enquête publique unique interdépartementale du lundi 4 mai 2026 à 14 h 30 au jeudi 11 juin 2026 à 17 h 30, préalable à la DUP et à la mise en compatibilité du PLUi Cœur de Beauce.",
+    "source_id": "source_0002",
+    "source_ids": [
+      "source_0002"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 6, colonne F",
+    "xlsx_row": 6,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0007",
+    "type": "reported_fact",
+    "text": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0008",
+    "type": "reported_fact",
+    "text": "Le coût du chantier est estimé à environ 50 millions d’euros, selon RTE, dans l’article ICI publié le 5 mai 2026.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0009",
+    "type": "reported_fact",
+    "text": "L’article ICI du 5 mai 2026 évoque un démarrage des travaux en juin 2027 après une autorisation préfectorale attendue fin 2026 ; ce calendrier contredit la prévision 2028 mentionnée en 2024.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0010",
+    "type": "reported_fact",
+    "text": "À Ingré, des riverains proches du futur tracé disent manquer d’informations et expriment des inquiétudes sur la santé ; aucune opposition de tous les habitants n’est déduite.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0011",
+    "type": "quote",
+    "text": "C'est le nœud central du transfert d'énergie.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Ligne 5, propos attribués à Laurent Brimboeuf",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0012",
+    "type": "reported_fact",
+    "text": "Laurent Brimboeuf, responsable de projets RTE, explique que l’axe doit permettre le transit d’une électricité issue de différents moyens de production vers les centres de consommation.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0013",
+    "type": "reported_fact",
+    "text": "L’article rapporte que RTE assure l’absence de risque sanitaire ; cette affirmation de l’opérateur n’est pas une expertise sanitaire indépendante.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0014",
+    "type": "reported_fact",
+    "text": "Le commissaire enquêteur tient des permanences à Poupry le 20 mai, Ormes le 29 mai et Chaingy le 11 juin 2026.",
+    "source_id": "source_0003",
+    "source_ids": [
+      "source_0003"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-05-05",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 5, colonne F",
+    "xlsx_row": 5,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0015",
+    "type": "reported_fact",
+    "text": "L’avis reproduit dans le lot indique une concertation préalable du 3 septembre au 4 octobre 2024 sous l’égide de la CNDP, après un report lié aux élections législatives.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 47, colonne F",
+    "xlsx_row": 47,
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_0016",
+    "type": "reported_fact",
+    "text": "L’avis de concertation reproduit dans le fichier désigne Jean-Claude Ruysschaert et Estelle Gresle comme garants ; son URL éditeur d’origine n’est pas fournie.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 47, colonne F",
+    "xlsx_row": 47,
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_0017",
+    "type": "reported_fact",
+    "text": "L’avis de 2024 précise que les options de tracé doivent être appréciées au regard du cadre de vie, des paysages, de l’environnement et des activités agricoles.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 47, colonne F",
+    "xlsx_row": 47,
+    "certainty": "medium"
+  },
+  {
+    "id": "evidence_0018",
+    "type": "reported_fact",
+    "text": "La liste « Unis pour Chaingy » conduite par Jocelyne Gaschaud obtient 1 178 voix et 27 sièges au conseil municipal au premier tour du 15 mars 2026.",
+    "source_id": "source_0005",
+    "source_ids": [
+      "source_0005"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": "2026-03-15",
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 12, colonne F",
+    "xlsx_row": 12,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0019",
+    "type": "reported_fact",
+    "text": "Jean-Pierre Durand est décrit comme maire sortant de Chaingy et candidat sur la liste « Unis pour Chaingy » avant les élections municipales de mars 2026.",
+    "source_id": "source_0006",
+    "source_ids": [
+      "source_0006"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 15, colonne F",
+    "xlsx_row": 15,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0020",
+    "type": "reported_fact",
+    "text": "Christian Dumas est présenté comme maire sortant d’Ingré en février 2026, à l’occasion de la présentation de sa liste municipale.",
+    "source_id": "source_0007",
+    "source_ids": [
+      "source_0007"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 46, colonne F",
+    "xlsx_row": 46,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0021",
+    "type": "reported_fact",
+    "text": "La liste menée par Alain Touchard obtient 1 402 voix et 27 sièges au conseil municipal d’Ormes au premier tour du 15 mars 2026.",
+    "source_id": "source_0008",
+    "source_ids": [
+      "source_0008"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 10, colonne F",
+    "xlsx_row": 10,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0022",
+    "type": "reported_fact",
+    "text": "La liste de Thierry Bracquemond recueille 96 voix et 11 sièges au premier tour du 15 mars 2026 à Huêtre.",
+    "source_id": "source_0009",
+    "source_ids": [
+      "source_0009"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 11, colonne F",
+    "xlsx_row": 11,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0023",
+    "type": "reported_fact",
+    "text": "Thierry Bracquemond est présenté en mars 2026 comme maire de Huêtre depuis trois mandats, candidat à un quatrième mandat.",
+    "source_id": "source_0010",
+    "source_ids": [
+      "source_0010"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 26, colonne F",
+    "xlsx_row": 26,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0024",
+    "type": "reported_fact",
+    "text": "La liste de Dominique Lorcet obtient 718 voix et 23 sièges à Chevilly au premier tour du 15 mars 2026.",
+    "source_id": "source_0011",
+    "source_ids": [
+      "source_0011"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 13, colonne F",
+    "xlsx_row": 13,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0025",
+    "type": "reported_fact",
+    "text": "Dominique Lorcet est présenté comme conseiller municipal sortant et tête de liste à Chevilly en mars 2026.",
+    "source_id": "source_0012",
+    "source_ids": [
+      "source_0012"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 38, colonne F",
+    "xlsx_row": 38,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0026",
+    "type": "reported_fact",
+    "text": "Fabienne Legrand est élue maire de Sougy le 22 mars 2026 avec 14 voix et un blanc, après le retrait d’Éric David.",
+    "source_id": "source_0013",
+    "source_ids": [
+      "source_0013"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 8, colonne F",
+    "xlsx_row": 8,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0027",
+    "type": "reported_fact",
+    "text": "La liste menée par Fabienne Legrand obtient 269 voix et 15 sièges au premier tour des municipales du 15 mars 2026.",
+    "source_id": "source_0014",
+    "source_ids": [
+      "source_0014"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 14, colonne F",
+    "xlsx_row": 14,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0028",
+    "type": "reported_fact",
+    "text": "Fabienne Legrand est présentée avant le scrutin comme ancienne première adjointe au maire de Sougy et vice-présidente de la communauté de communes de la Beauce loirétaine.",
+    "source_id": "source_0015",
+    "source_ids": [
+      "source_0015"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 37, colonne F",
+    "xlsx_row": 37,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0029",
+    "type": "reported_fact",
+    "text": "Éric David, maire de Sougy depuis douze ans, annonce ne pas briguer de mandat en mars 2026.",
+    "source_id": "source_0016",
+    "source_ids": [
+      "source_0016"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 44, colonne F",
+    "xlsx_row": 44,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0030",
+    "type": "reported_fact",
+    "text": "La liste conduite par David Jacquet recueille 57,43 % des suffrages exprimés et remporte le scrutin à Artenay le 15 mars 2026.",
+    "source_id": "source_0017",
+    "source_ids": [
+      "source_0017"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 9, colonne F",
+    "xlsx_row": 9,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0031",
+    "type": "reported_fact",
+    "text": "Philippe Lesage est présenté comme maire de Dambron dans les réponses aux questions sur sa possible candidature aux municipales de 2026.",
+    "source_id": "source_0018",
+    "source_ids": [
+      "source_0018"
+    ],
+    "source_status": "url_from_excel_not_directly_consulted",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 41, colonne F",
+    "xlsx_row": 41,
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0032",
+    "type": "reported_fact",
+    "text": "Le maire de Dambron Philippe Lesage exprime son refus d’un projet Enertrag de stockage lithium situé près du poste 400 kV ; cela ne démontre aucune opposition à la restructuration RTE.",
+    "source_id": "source_0019",
+    "source_ids": [
+      "source_0019"
+    ],
+    "source_status": "to_qualify_aggregator",
+    "published_at": null,
+    "accessed_at": null,
+    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 2, colonne F",
+    "xlsx_row": 2,
+    "certainty": "medium"
+  }
+]
