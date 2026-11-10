@@ -1,0 +1,231 @@
+{
+  "project": "Chaingy–Dambron",
+  "date": "2026-11-10",
+  "file": "Chaingy.xlsx",
+  "file_rows": 50,
+  "corpus_comparison": "Le classeur de 50 ressources reprend le lot initial décrit par audit/corpus-review.json ; les deltas supplémentaires sont recherchés dans les documents officiels RTE, CNDP, IGEDD, collectivités et la presse éditoriale identifiée.",
+  "baseline": {
+    "actors": 43,
+    "claims": 4,
+    "evidence": 32,
+    "relations": 44,
+    "sources": 19
+  },
+  "output": {
+    "actors": 53,
+    "claims": 5,
+    "evidence": 63,
+    "relations": 58,
+    "sources": 30
+  },
+  "source_requalifications": [
+    {
+      "id": "source_0004",
+      "old_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnNRWElJbTQ3V19RUk80TUhRNnZaVFdPeUpzRnd6UnYtSkR1alg1dXR2eDhhc1dZNW9RTkhhRTBpRGo3RWhCdDV0ZS1waVBpSi1pb3NOZUlETjBCYzdjeEVCaS04cy1heXNFS3lCdVoxcTFCWG04bG1KVURMNmxYRjZieXJFcEt0QmxSVG9vd010dHVQeDdqdDlEZUlyQ3NoZWoxWjNsRWZvenZVbDMzek1vQnZ6QQ?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+      "new_url": "https://www.rte-france.com/actualites/restructuration-reseau-electrique-chaingy-dambron-avis-concertation-prealable",
+      "reason": "URL originale de l'avis de concertation RTE retrouvée et vérifiée"
+    }
+  ],
+  "source_retirements": [
+    {
+      "id": "source_0019",
+      "reason": "Agrégateur Google remplacé par source originale indépendante Le Monde ; source_0026, preuves evidence_0032 et evidence_0056"
+    }
+  ],
+  "actor_name_correction": {
+    "id": "actor_0003",
+    "before": "Laurent Brimboeuf",
+    "after": "Laurent Brimbeuf",
+    "evidence_id": "evidence_0054",
+    "reason": "Compte rendu RTE et CNDP concordants"
+  },
+  "actor_excluded": [
+    {
+      "id": "actor_0042",
+      "name": "Google Actualités — extraits non canoniques",
+      "reason": "Agrégateur documentaire, pas acteur métier ; preuve remplacée"
+    }
+  ],
+  "relations_excluded": [
+    {
+      "id": "relation_0044",
+      "reason": "Lien documented_by vers agrégateur supprimé"
+    }
+  ],
+  "new_ids": {
+    "actors": [
+      "actor_0043",
+      "actor_0044",
+      "actor_0045",
+      "actor_0046",
+      "actor_0047",
+      "actor_0048",
+      "actor_0049",
+      "actor_0050",
+      "actor_0051",
+      "actor_0052",
+      "actor_0053"
+    ],
+    "claims": [
+      "claim_0005"
+    ],
+    "evidence": [
+      "evidence_0033",
+      "evidence_0034",
+      "evidence_0035",
+      "evidence_0036",
+      "evidence_0037",
+      "evidence_0038",
+      "evidence_0039",
+      "evidence_0040",
+      "evidence_0041",
+      "evidence_0042",
+      "evidence_0043",
+      "evidence_0044",
+      "evidence_0045",
+      "evidence_0046",
+      "evidence_0047",
+      "evidence_0048",
+      "evidence_0049",
+      "evidence_0050",
+      "evidence_0051",
+      "evidence_0052",
+      "evidence_0053",
+      "evidence_0054",
+      "evidence_0055",
+      "evidence_0056",
+      "evidence_0057",
+      "evidence_0058",
+      "evidence_0059",
+      "evidence_0060",
+      "evidence_0061",
+      "evidence_0062",
+      "evidence_0063"
+    ],
+    "sources": [
+      "source_0020",
+      "source_0021",
+      "source_0022",
+      "source_0023",
+      "source_0024",
+      "source_0025",
+      "source_0026",
+      "source_0027",
+      "source_0028",
+      "source_0029",
+      "source_0030",
+      "source_0031"
+    ],
+    "relations": [
+      "relation_0045",
+      "relation_0046",
+      "relation_0047",
+      "relation_0048",
+      "relation_0049",
+      "relation_0050",
+      "relation_0051",
+      "relation_0052",
+      "relation_0053",
+      "relation_0054",
+      "relation_0055",
+      "relation_0056",
+      "relation_0057",
+      "relation_0058",
+      "relation_0059"
+    ]
+  },
+  "changed_meta": {
+    "last_updated": {
+      "before": "2026-11-03",
+      "after": "2026-11-10"
+    },
+    "project_facts": {
+      "before": {
+        "voltage_kv": 400,
+        "length_km_approx": 30,
+        "replaced_lines": {
+          "count": 2,
+          "voltage_kv": 225
+        },
+        "existing_225kv_lines_count": 3,
+        "communes_concerned": 10,
+        "public_inquiry": {
+          "from": "2026-05-04",
+          "to": "2026-06-11",
+          "status": "announced_in_documents"
+        },
+        "investment_eur_approx": 50000000,
+        "construction_start_forecasts": [
+          "2027-06",
+          "2028"
+        ],
+        "commissioning_forecast_from_2024": "2030",
+        "project_status_as_of_cutoff": "enquête publique annoncée, DUP non démontrée"
+      },
+      "after": {
+        "voltage_kv": 400,
+        "length_km": 26,
+        "length_basis": "Tracé présenté par RTE dans les chiffres clés, après les 30 km estimatifs du dossier initial",
+        "existing_225kv_lines_count": 3,
+        "replaced_lines": {
+          "count": 2,
+          "voltage_kv": 225
+        },
+        "removed_aerial_lines_km": 26,
+        "transit_capacity_gain_mw": 2300,
+        "transit_measure": "Augmentation de capacité de transport, non puissance totale de consommateur",
+        "investment_eur_approx": 50000000,
+        "prior_saisine_estimate_eur_approx": 60000000,
+        "communes_concerned": 10,
+        "pylons_proposed": 62,
+        "agricultural_tracé_km": 25,
+        "public_inquiry": {
+          "from": "2026-05-04",
+          "to": "2026-06-11",
+          "status": "closed",
+          "commissioner_opinion": "favorable_without_reservations",
+          "commissioner_opinion_date": "2026-07-07",
+          "dup_status": "not_proven"
+        },
+        "forecast_work_start_year": 2027,
+        "forecast_work_end": "2028-12",
+        "commissioning_forecast": "end_2028_according_to_ville_ormes",
+        "project_status_as_of_cutoff": "enquête publique close et avis favorable ; instruction DUP restant à vérifier",
+        "separate_related_project": "Enertrag Dambron batteries — distinct legal project"
+      }
+    }
+  },
+  "excluded_resource_types": [
+    "Doublons Google Actualités de la presse locale",
+    "Résultats municipaux sans position sur l'interconnexion",
+    "Bilans budgétaires municipaux sans incidence démontrée sur le chantier",
+    "Faux positif Les Ormes (Vienne)",
+    "Article loisir et photo sans fait projet"
+  ],
+  "uncertainty": [
+    "DUP ministérielle définitive non établie dans les ressources consultées.",
+    "Avis de l'Autorité environnementale : avis sur l'étude d'impact, non position favorable ou opposée.",
+    "Fin 2028 : prévision, pas date validée d'achèvement.",
+    "Réunion d'Ingré du 27 octobre annoncée, réalisation non attestée.",
+    "Projet de batteries Enertrag juridiquement distinct ; aucune opposition au projet RTE déduite des déclarations de Philippe Lesage.",
+    "Timeline : acteurs dont la date de première publication est inconnue exclus du graphique."
+  ],
+  "schema_changes": {
+    "taxonomy_categories_labels_updated": [
+      "elus-fav",
+      "elus-opp",
+      "opposants"
+    ],
+    "new_taxonomy_key": "timeline"
+  },
+  "tabs": [
+    "Cartographie des acteurs",
+    "Synthèse des oppositions",
+    "Points de vigilance & sources",
+    "Chronologie",
+    "Évolution des acteurs"
+  ],
+  "timeline_count": 38,
+  "timeline_dated": 27,
+  "source_access": "Les pages institutionnelles et la presse recherchées ont été directement consultées ; les anciens liens La République du Centre et ICI présents dans le classeur ne sont pas présentés comme nouvellement consultés."
+}

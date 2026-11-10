@@ -9,15 +9,15 @@
       "color": "#111827"
     },
     "opposants": {
-      "label": "Opposants et experts",
+      "label": "Opposants documentés et experts",
       "color": "#dc2626"
     },
     "elus-opp": {
-      "label": "Élus opposés ou critiques",
+      "label": "Élus critiques ou opposés (si prouvé)",
       "color": "#8b5cf6"
     },
     "elus-fav": {
-      "label": "Élus favorables ou prudents",
+      "label": "Élus et responsables territoriaux (position non présumée)",
       "color": "#2563eb"
     },
     "orgs": {
@@ -111,5 +111,64 @@
       "label": "Relation",
       "directed": true
     }
+  },
+  "timeline": {
+    "event_type": "first_documented_appearance",
+    "fallback_category": "orgs",
+    "excluded_actor_categories": [
+      "project",
+      "context",
+      "griefs",
+      "sources"
+    ],
+    "categories": [
+      {
+        "id": "opposants",
+        "label": "Opposants documentés et experts",
+        "color": "#dc2626"
+      },
+      {
+        "id": "elus-opp",
+        "label": "Élus critiques ou opposés (si prouvé)",
+        "color": "#8b5cf6"
+      },
+      {
+        "id": "elus-fav",
+        "label": "Élus et responsables territoriaux (position non présumée)",
+        "color": "#2563eb"
+      },
+      {
+        "id": "orgs",
+        "label": "Organisations et collectifs",
+        "color": "#10b981"
+      },
+      {
+        "id": "porteurs",
+        "label": "Porteurs et économie",
+        "color": "#0f766e"
+      }
+    ],
+    "stances": [
+      {
+        "id": "opposed",
+        "label": "Opposé",
+        "color": "#ef4444"
+      },
+      {
+        "id": "favorable",
+        "label": "Favorable",
+        "color": "#16a34a"
+      },
+      {
+        "id": "neutral",
+        "label": "Prudent / questionnement",
+        "color": "#f59e0b"
+      },
+      {
+        "id": "unknown",
+        "label": "Non qualifié",
+        "color": "#94a3b8"
+      }
+    ]
   }
 }

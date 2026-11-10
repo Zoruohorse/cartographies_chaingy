@@ -1,0 +1,252 @@
+{
+  "project_status": "Enquête publique close le 11 juin 2026 ; avis favorable sans réserve du commissaire enquêteur rendu le 7 juillet. La DUP définitive n'est pas documentée par les sources de ce lot.",
+  "project_summary": "RTE propose de reconstruire 26 km de ligne aérienne 400 kV, de retirer deux lignes 225 kV existantes et d'augmenter de 2 300 MW la capacité de transport sur l'axe. Travaux envisagés de 2027 à fin 2028. Enjeux : milieux agricoles, biodiversité, exposition électromagnétique et concertation locale.",
+  "fact_sheet": [
+    {
+      "id": "chaingy_fact_001",
+      "label": "Ouvrage projeté",
+      "value": "Ligne aérienne 400 kV",
+      "qualifier": "Tension nominale du circuit, distincte de la capacité de transit en MW.",
+      "evidence_ids": [
+        "evidence_0033"
+      ]
+    },
+    {
+      "id": "chaingy_fact_002",
+      "label": "Longueur du tracé actualisé",
+      "value": "26 km",
+      "qualifier": "RTE précise le tracé par rapport aux ~30 km du périmètre initial.",
+      "evidence_ids": [
+        "evidence_0033"
+      ]
+    },
+    {
+      "id": "chaingy_fact_003",
+      "label": "Lignes supprimées",
+      "value": "2 anciennes lignes 225 kV",
+      "qualifier": "RTE publie un indicateur de 26 km de lignes aériennes supprimées ; ne pas multiplier automatiquement.",
+      "evidence_ids": [
+        "evidence_0035"
+      ]
+    },
+    {
+      "id": "chaingy_fact_004",
+      "label": "Capacité de transport ajoutée",
+      "value": "+2 300 MW",
+      "qualifier": "Gain de transit annoncé par RTE sur l'axe régional.",
+      "evidence_ids": [
+        "evidence_0034"
+      ]
+    },
+    {
+      "id": "chaingy_fact_005",
+      "label": "Investissement estimatif RTE",
+      "value": "~50 M€",
+      "qualifier": "État du chiffre clé RTE ; la fiche CNDP initiale donnait ~60 M€ au stade de la saisine.",
+      "evidence_ids": [
+        "evidence_0062"
+      ]
+    },
+    {
+      "id": "chaingy_fact_006",
+      "label": "Pylônes projetés",
+      "value": "62",
+      "qualifier": "Implantation à confirmer et adapter aux exploitations ; donnée prévisionnelle.",
+      "evidence_ids": [
+        "evidence_0037"
+      ]
+    },
+    {
+      "id": "chaingy_fact_007",
+      "label": "Linéaire en terres agricoles",
+      "value": "25 km sur 26 km",
+      "qualifier": "Selon la lettre d'information RTE n°4 de mars 2026.",
+      "evidence_ids": [
+        "evidence_0037"
+      ]
+    },
+    {
+      "id": "chaingy_fact_008",
+      "label": "État de la procédure",
+      "value": "Avis favorable du commissaire enquêteur",
+      "qualifier": "7 juillet 2026 ; pas de DUP définitive démontrée.",
+      "evidence_ids": [
+        "evidence_0038"
+      ]
+    },
+    {
+      "id": "chaingy_fact_009",
+      "label": "Fin des travaux envisagée",
+      "value": "Fin 2028",
+      "qualifier": "Prévision RTE de mars 2026 ; fin de chantier et mise en service restent deux événements distincts.",
+      "evidence_ids": [
+        "evidence_0036",
+        "evidence_0060"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "chaingy_milestone_001",
+      "date": "2024-02-07",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Désignation des garants de la concertation",
+      "details": "La CNDP désigne Estelle Gresle et Jean-Claude Ruysschaert.",
+      "evidence_ids": [
+        "evidence_0016",
+        "evidence_0052"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_002",
+      "date": "2024-09-03",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de la concertation préalable",
+      "details": "Concertation du public du 3 septembre au 4 octobre 2024, après report.",
+      "evidence_ids": [
+        "evidence_0015",
+        "evidence_0052"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_003",
+      "date": "2024-10-28",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Bilan de la concertation préalable",
+      "details": "Publication du bilan des garants par la CNDP.",
+      "evidence_ids": [
+        "evidence_0059"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_004",
+      "date": "2024-12-20",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Choix du fuseau de moindre impact",
+      "details": "Fuseau retenu par Nicolas Honoré lors d'une réunion en préfecture d'Orléans.",
+      "evidence_ids": [
+        "evidence_0050"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_005",
+      "date": "2025-10-29",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Dossier de demande de DUP réceptionné",
+      "details": "RTE indique la réception de la demande par la Direction de l'énergie ; dépôt non égal à acceptation.",
+      "evidence_ids": [
+        "evidence_0063"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_006",
+      "date": "2026-01-05",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Concertation de mise en compatibilité du PLUi",
+      "details": "Concertation du 5 au 19 janvier pour le PLUi Cœur de Beauce.",
+      "evidence_ids": [
+        "evidence_0051"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_007",
+      "date": "2026-02-12",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis de l'Autorité environnementale",
+      "details": "IGEDD demande des compléments d'étude sur biodiversité, bilan carbone et champs électromagnétiques.",
+      "evidence_ids": [
+        "evidence_0041",
+        "evidence_0042"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_008",
+      "date": "2026-03-25",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Actualisation RTE du calendrier et des caractéristiques",
+      "details": "Lettre RTE n°4 : 26 km, 62 pylônes, travaux prévus de 2027 à fin 2028.",
+      "evidence_ids": [
+        "evidence_0036",
+        "evidence_0037"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_009",
+      "date": "2026-05-04",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Ouverture de l'enquête publique",
+      "details": "Registre ouvert le 4 mai et consultation des dix communes.",
+      "evidence_ids": [
+        "evidence_0006",
+        "evidence_0057"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_010",
+      "date": "2026-06-11",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Clôture de l'enquête publique",
+      "details": "Fin de la réception des contributions le 11 juin.",
+      "evidence_ids": [
+        "evidence_0057"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_011",
+      "date": "2026-07-07",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Avis favorable sans réserve du commissaire enquêteur",
+      "details": "Avis d'Étienne Lefebvre, accompagné de demandes d'information à Ingré ; ne constitue pas une DUP.",
+      "evidence_ids": [
+        "evidence_0038",
+        "evidence_0039"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_012",
+      "date": "2026-10-27",
+      "period_precision": "day",
+      "status": "announced",
+      "title": "Réunion publique annoncée à Ingré",
+      "details": "La commune a annoncé une réunion à 18 h 30 ; la page seule ne confirme pas sa tenue effective.",
+      "evidence_ids": [
+        "evidence_0040"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_013",
+      "date": "2027-01-01",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Démarrage des travaux envisagé en 2027",
+      "details": "Année prévisionnelle fournie par RTE ; le 1er janvier n'est pas une date réelle de chantier.",
+      "evidence_ids": [
+        "evidence_0036"
+      ]
+    },
+    {
+      "id": "chaingy_milestone_014",
+      "date": "2028-12-01",
+      "period_precision": "month",
+      "status": "forecast",
+      "title": "Fin de chantier envisagée pour fin 2028",
+      "details": "Horizon RTE, non date d'achèvement confirmée ni autorisation définitive.",
+      "evidence_ids": [
+        "evidence_0036"
+      ]
+    }
+  ],
+  "methodology": "Une date d'événement n'est pas toujours la date de publication. Les jalons annoncés et les prévisions ne sont pas présentés comme réalisés ; l'avis favorable du commissaire enquêteur n'est pas une DUP.",
+  "last_updated": "2026-11-10"
+}

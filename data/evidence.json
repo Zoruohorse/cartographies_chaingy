@@ -217,10 +217,10 @@
     "source_ids": [
       "source_0004"
     ],
-    "source_status": "to_qualify_aggregator",
+    "source_status": "qualified_web_direct",
     "published_at": null,
-    "accessed_at": null,
-    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 47, colonne F",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, avis de concertation préalable, parties sur l'objet et les garants",
     "xlsx_row": 47,
     "certainty": "medium"
   },
@@ -232,10 +232,10 @@
     "source_ids": [
       "source_0004"
     ],
-    "source_status": "to_qualify_aggregator",
+    "source_status": "qualified_web_direct",
     "published_at": null,
-    "accessed_at": null,
-    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 47, colonne F",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, avis de concertation préalable, parties sur l'objet et les garants",
     "xlsx_row": 47,
     "certainty": "medium"
   },
@@ -247,10 +247,10 @@
     "source_ids": [
       "source_0004"
     ],
-    "source_status": "to_qualify_aggregator",
+    "source_status": "qualified_web_direct",
     "published_at": null,
-    "accessed_at": null,
-    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 47, colonne F",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, avis de concertation préalable, parties sur l'objet et les garants",
     "xlsx_row": 47,
     "certainty": "medium"
   },
@@ -467,16 +467,451 @@
   {
     "id": "evidence_0032",
     "type": "reported_fact",
-    "text": "Le maire de Dambron Philippe Lesage exprime son refus d’un projet Enertrag de stockage lithium situé près du poste 400 kV ; cela ne démontre aucune opposition à la restructuration RTE.",
-    "source_id": "source_0019",
+    "text": "Le Monde du 29 août 2026 rapporte l’opposition explicite du maire Philippe Lesage au projet Enertrag de stockage stationnaire par batteries lithium à Dambron, distinct de la ligne Chaingy–Dambron. Aucune opposition à la ligne RTE ne peut être inférée de cette prise de position.",
+    "source_id": "source_0026",
     "source_ids": [
-      "source_0019"
+      "source_0026"
     ],
-    "source_status": "to_qualify_aggregator",
+    "source_status": "qualified_web_direct",
     "published_at": null,
-    "accessed_at": null,
-    "location": "Carto Chaingy-Dambron.xlsx — feuille « Informations qualifiées », ligne 2, colonne F",
+    "accessed_at": "2026-11-10",
+    "location": "Le Monde, article du 29 août 2026 — contexte distinct du projet de ligne électrique",
     "xlsx_row": 2,
-    "certainty": "medium"
+    "certainty": "medium",
+    "old_source_id": "source_0019"
+  },
+  {
+    "id": "evidence_0033",
+    "type": "documented_summary",
+    "text": "RTE donne désormais une longueur de 26 km pour la ligne aérienne à 400 kV projetée, contre environ 30 km au stade de la concertation 2024. Il s'agit d'une précision du tracé, non d'une différence de technologie.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, fiche projet, rubrique « Les chiffres clés »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0034",
+    "type": "documented_summary",
+    "text": "La nouvelle ligne doit apporter 2 300 MW de capacité supplémentaire de transport d’électricité selon RTE. Ce chiffre décrit le gain de transit de l'axe, non une puissance électrique nominale de la ligne ni une puissance demandée par une installation industrielle.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, fiche projet, rubrique « Les chiffres clés »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0035",
+    "type": "documented_summary",
+    "text": "RTE indique 26 km de lignes électriques aériennes à supprimer, correspondant à la dépose de deux anciennes liaisons 225 kV. Ne pas multiplier automatiquement 26 par deux dans les indicateurs.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, fiche projet, chiffres clés",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0036",
+    "type": "documented_summary",
+    "text": "La lettre RTE de mars 2026 prévoit un démarrage des travaux durant 2027 et leur achèvement fin 2028. Les prévisions 2024 de début 2028 et mise en service 2030 sont historiques et ne doivent pas être reprises comme calendrier à jour.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, page 1, calendrier",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0037",
+    "type": "documented_summary",
+    "text": "La lettre RTE n°4 indique 62 pylônes prévus, dont 25 des 26 km de tracé en zone agricole ; leur implantation fait l'objet de discussions avec les exploitants et n'est pas un fait achevé.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, entretien avec Valentin Caron",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0038",
+    "type": "documented_summary",
+    "text": "À l'issue de l'enquête publique du 4 mai au 11 juin 2026, Étienne Lefebvre, commissaire enquêteur, a rendu le 7 juillet 2026 un avis favorable sans réserve sur le projet de RTE. Cet avis ne constitue pas la Déclaration d'utilité publique, dont l'instruction se poursuit.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, rubrique « Enquête publique », conclusions du 7 juillet",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0039",
+    "type": "documented_summary",
+    "text": "La Ville d'Ingré rappelle trois engagements demandés à RTE : rencontre avec les riverains sur le tracé détaillé, information de la commune sur les contrôles des champs électromagnétiques, association à la gestion de la biodiversité sur les emprises.",
+    "source_id": "source_0024",
+    "source_ids": [
+      "source_0024"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "Ville d'Ingré, page « Rapport et conclusions », engagements",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0040",
+    "type": "documented_summary",
+    "text": "La Ville d'Ingré a annoncé une réunion publique autour du projet le mardi 27 octobre 2026 à 18h30 salle Guy Durand. Cette annonce ne prouve pas par elle-même la tenue effective de la réunion.",
+    "source_id": "source_0024",
+    "source_ids": [
+      "source_0024"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "Ville d'Ingré, en-tête « Réunion publique le 27 octobre »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0041",
+    "type": "documented_summary",
+    "text": "L'Autorité environnementale (IGEDD) estime dans son avis du 12 février 2026 que le dossier justifie sommairement la nécessité de la nouvelle ligne et doit préciser les impacts sur les milieux naturels après fixation du tracé définitif.",
+    "source_id": "source_0023",
+    "source_ids": [
+      "source_0023"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-02-12",
+    "accessed_at": "2026-11-10",
+    "location": "Avis IGEDD n°2025-137, page 3, synthèse",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0042",
+    "type": "documented_summary",
+    "text": "L'Autorité environnementale recommande de mieux documenter les corridors oiseaux et chauves-souris, le bilan carbone complet incluant la dépose, et de modéliser les champs électromagnétiques dans les secteurs habités proches de trois lignes parallèles.",
+    "source_id": "source_0023",
+    "source_ids": [
+      "source_0023"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-02-12",
+    "accessed_at": "2026-11-10",
+    "location": "Avis IGEDD n°2025-137, page 3, recommandations",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0043",
+    "type": "documented_summary",
+    "text": "Le tribunal administratif d'Orléans a nommé Étienne Lefebvre commissaire enquêteur chargé de l'enquête publique Chaingy–Dambron.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, page 1, encadré Enquête publique",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0044",
+    "type": "documented_summary",
+    "text": "Christophe Polfer signe l'éditorial de la lettre RTE de mars 2026 en tant que responsable de la concertation du projet ; cette fonction ne prouve pas qu'il remplace juridiquement tout responsable antérieur du projet.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, page 1, éditorial",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0045",
+    "type": "documented_summary",
+    "text": "RTE cite Eiffage comme son prestataire chargé des études et de la finalisation du tracé de détail ; Eiffage ne se substitue pas à RTE comme maître d'ouvrage.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, pages 1-2",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0046",
+    "type": "documented_summary",
+    "text": "RTE indique avoir missionné les chambres d'agriculture du Loiret et de l'Eure-et-Loir pour rencontrer les exploitants agricoles concernés par l'implantation des pylônes.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, page projet, rubrique « Prise en compte des enjeux agricoles »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0047",
+    "type": "documented_summary",
+    "text": "Valentin Caron est présenté comme président de la Chambre d'agriculture du Loiret. Il explique qu'une convention a été signée avec RTE pour accompagner chaque exploitation et demande une implantation compatible avec les contraintes d'irrigation, de drainage et de cultures, ainsi que des indemnisations transparentes.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, entretien avec Valentin Caron, page 2",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0048",
+    "type": "documented_summary",
+    "text": "La Chambre d'agriculture d'Eure-et-Loir est mentionnée par RTE comme partenaire de la concertation agricole ; aucune position générale de soutien ou de rejet de la ligne n'est établie.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, page projet, rubrique « Prise en compte des enjeux agricoles »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0049",
+    "type": "documented_summary",
+    "text": "La lettre RTE de mars 2026 prévoit des inventaires d'oiseaux par la LPO sur les lignes appelées à être déposées, avec déplacement éventuel de nids en hiver 2026–2027 sous réserve des autorisations nécessaires. La réalisation effective n'est pas confirmée par cette annonce.",
+    "source_id": "source_0022",
+    "source_ids": [
+      "source_0022"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-25",
+    "accessed_at": "2026-11-10",
+    "location": "Lettre RTE n°4, rubrique « Inventaires écologiques »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0050",
+    "type": "documented_summary",
+    "text": "Le 20 décembre 2024, en réunion plénière préfectorale à Orléans, Nicolas Honoré, alors secrétaire général du Loiret, a retenu le fuseau de moindre impact pour la liaison Chaingy–Dambron.",
+    "source_id": "source_0025",
+    "source_ids": [
+      "source_0025"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2025-01-08",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, article du 8 janvier 2025",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0051",
+    "type": "documented_summary",
+    "text": "La concertation préalable de mise en compatibilité du PLUi Cœur de Beauce a eu lieu du 5 au 19 janvier 2026 et concerne l'implantation de pylônes de plus de quinze mètres à Poupry et Dambron. Ce n'est pas une approbation finale du PLUi ni une DUP.",
+    "source_id": "source_0031",
+    "source_ids": [
+      "source_0031"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-01-05",
+    "accessed_at": "2026-11-10",
+    "location": "Préfecture du Loiret, avis d'ouverture et objet",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0052",
+    "type": "documented_summary",
+    "text": "La CNDP et l'avis RTE confirment la concertation préalable du 3 septembre au 4 octobre 2024, après report, sous la garantie de Jean-Claude Ruysschaert et Estelle Gresle.",
+    "source_id": "source_0004",
+    "source_ids": [
+      "source_0004"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, avis de concertation préalable original",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0053",
+    "type": "documented_summary",
+    "text": "La CNDP précise qu'Estelle Gresle a été désignée le 13 janvier 2025 garante de la concertation continue, dont le rapport final a été publié le 26 mars 2026. Jean-Claude Ruysschaert est cité pour la phase préalable, sans déduction d'une mission identique pour la phase continue.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-26",
+    "accessed_at": "2026-11-10",
+    "location": "CNDP, rubrique « Concertation continue »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0054",
+    "type": "documented_summary",
+    "text": "Les comptes rendus RTE identifient le responsable du programme THT Centre–Val de Loire sous le nom Laurent Brimbeuf ; la graphie « Laurent Brimboeuf » de la source presse précédemment utilisée apparaît inexacte.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2024-10-10",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, compte-rendu de réunion du 3 octobre 2024, page 1",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0055",
+    "type": "documented_summary",
+    "text": "Céline Marcy est citée par RTE comme responsable de la concertation Chaingy–Dambron lors de la réunion publique du 3 octobre 2024 ; cette fonction est documentée historiquement et ne prouve pas qu'elle occupe le même poste en 2026.",
+    "source_id": "source_0027",
+    "source_ids": [
+      "source_0027"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2024-10-10",
+    "accessed_at": "2026-11-10",
+    "location": "RTE, compte-rendu de réunion du 3 octobre 2024, page 1",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0056",
+    "type": "documented_summary",
+    "text": "Le Monde décrit un projet distinct de stockage d'énergie Enertrag à Dambron, portant sur 120 batteries, 124 MW, 496 MWh et 2,7 hectares, contesté localement. Il ne s'agit pas d'une composante de l'investissement ou du chantier Chaingy–Dambron de RTE.",
+    "source_id": "source_0026",
+    "source_ids": [
+      "source_0026"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-08-29",
+    "accessed_at": "2026-11-10",
+    "location": "Le Monde, 29 août 2026, contexte Enertrag",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0057",
+    "type": "documented_summary",
+    "text": "Le registre numérique confirme la clôture de l'enquête publique le 11 juin 2026 et la mise à disposition du rapport du commissaire enquêteur et de ses conclusions. Cela ne prouve pas une décision d'autorisation.",
+    "source_id": "source_0029",
+    "source_ids": [
+      "source_0029"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-07-24",
+    "accessed_at": "2026-11-10",
+    "location": "Registre numérique, page du rapport",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0058",
+    "type": "documented_summary",
+    "text": "L'avis de l'Autorité environnementale porte sur la qualité de l'étude d'impact et la prise en compte de l'environnement ; il ne constitue ni un avis favorable ni un avis défavorable sur l'opportunité du projet.",
+    "source_id": "source_0023",
+    "source_ids": [
+      "source_0023"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-02-12",
+    "accessed_at": "2026-11-10",
+    "location": "Avis IGEDD n° 2025-137, page 2, portée juridique",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0059",
+    "type": "documented_summary",
+    "text": "La CNDP publie les étapes de concertation : bilan de la concertation préalable le 28 octobre 2024, réponse de RTE le 11 décembre 2024, puis rapport de concertation continue le 26 mars 2026.",
+    "source_id": "source_0020",
+    "source_ids": [
+      "source_0020"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": "2026-03-26",
+    "accessed_at": "2026-11-10",
+    "location": "CNDP, calendrier de la procédure",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0060",
+    "type": "documented_summary",
+    "text": "Le site de la ville d'Ormes présente une mise en service prévisionnelle fin 2028 et 62 pylônes, cohérente avec la lettre RTE sur la fin des travaux mais à ne pas confondre avec une date d'autorisation.",
+    "source_id": "source_0028",
+    "source_ids": [
+      "source_0028"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "Ville d'Ormes, sections « Calendrier prévisionnel » et « Concertation »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0061",
+    "type": "documented_summary",
+    "text": "RTE signale la diffusion d'un tracé actualisé à la demande du public exprimée pendant l'enquête, mais indique qu'il restait susceptible d'évoluer durant l'été 2026.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, rubrique « Publication du tracé »",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0062",
+    "type": "documented_summary",
+    "text": "Le coût approximatif est désormais indiqué à 50 M€ sur la page projet RTE. La fiche CNDP en conservait une estimation de 60 M€ au stade de la saisine ; il s'agit de références documentaires d'époques différentes, pas de deux budgets cumulables.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, chiffres clés, recoupés CNDP fiche projet",
+    "certainty": "high"
+  },
+  {
+    "id": "evidence_0063",
+    "type": "documented_summary",
+    "text": "RTE annonce un dispositif d'indemnisation des exploitants agricoles concernant la perte d'exploitation et l'emprise des pylônes, en distinguant les conventions amiables et les procédures de servitudes qui pourraient être nécessaires.",
+    "source_id": "source_0021",
+    "source_ids": [
+      "source_0021"
+    ],
+    "source_status": "qualified_web_direct",
+    "published_at": null,
+    "accessed_at": "2026-11-10",
+    "location": "RTE, actualité 2026 et encadré indemnisations agricoles",
+    "certainty": "high"
   }
 ]

@@ -1,0 +1,794 @@
+[
+  {
+    "id": "timeline_chaingy_actor_0001",
+    "actor_id": "actor_0001",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "La lettre RTE de mars 2026 prévoit un démarrage des travaux durant 2027 et leur achèvement fin 2028. Les prévisions 2024 de début 2028 et mise en service 2030 sont historiques et ne doivent pas être reprises comme calendrier à jour.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0002",
+    "actor_id": "actor_0002",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Responsable du projet Chaingy–Dambron pour RTE, intervenant pendant la concertation initiale.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0003",
+    "actor_id": "actor_0003",
+    "event_type": "first_documented_appearance",
+    "date": "2024-10-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0027"
+    ],
+    "evidence_ids": [
+      "evidence_0054"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Les comptes rendus RTE identifient le responsable du programme THT Centre–Val de Loire sous le nom Laurent Brimbeuf ; la graphie « Laurent Brimboeuf » de la source presse précédemment utilisée apparaît inexacte.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0004",
+    "actor_id": "actor_0004",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "À Ingré, des riverains proches du futur tracé disent manquer d’informations et expriment des inquiétudes sur la santé ; aucune opposition de tous les habitants n’est déduite.",
+    "is_aggregate": true,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "La CNDP précise qu'Estelle Gresle a été désignée le 13 janvier 2025 garante de la concertation continue, dont le rapport final a été publié le 26 mars 2026. Jean-Claude Ruysschaert est cité pour la phase préalable, sans déduction d'une mission identique pour la phase continue.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Jean-Claude Ruysschaert, garant de la concertation préalable Chaingy–Dambron en 2024, désigné par la CNDP (référence officielle RTE et JO retrouvée).",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-26",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0020"
+    ],
+    "evidence_ids": [
+      "evidence_0053"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "La CNDP précise qu'Estelle Gresle a été désignée le 13 janvier 2025 garante de la concertation continue, dont le rapport final a été publié le 26 mars 2026. Jean-Claude Ruysschaert est cité pour la phase préalable, sans déduction d'une mission identique pour la phase continue.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0010",
+    "actor_id": "actor_0010",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2026-05-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0007"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L’article cite dix communes : Chaingy, Ingré, Ormes, Gidy, Huêtre, Chevilly, Sougy et Artenay dans le Loiret ; Poupry et Dambron en Eure-et-Loir.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-15",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0005"
+    ],
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "La liste « Unis pour Chaingy » conduite par Jocelyne Gaschaud obtient 1 178 voix et 27 sièges au conseil municipal au premier tour du 15 mars 2026.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0019",
+    "actor_id": "actor_0019",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Maire sortant de Chaingy en mars 2026, également inscrit sur la liste « Unis pour Chaingy ». Aucune position sur le projet RTE n’est établie.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Maire sortant d’Ingré lors de la campagne municipale de février 2026 ; aucune prise de position sur Chaingy–Dambron relevée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Tête de la seule liste élue à Ormes le 15 mars 2026. Élection ultérieure au poste de maire non établie dans le document.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Maire sortant de Huêtre et tête de liste élue aux municipales du 15 mars 2026. Aucune position sur la ligne RTE n’est documentée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Conseiller municipal sortant de Chevilly et tête de la seule liste élue aux municipales du 15 mars 2026 ; accession à la mairie non vérifiée dans le lot.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Ancienne première adjointe et vice-présidente de la communauté de communes de la Beauce loirétaine ; élue maire de Sougy le 22 mars 2026. Aucune position sur RTE documentée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0025",
+    "actor_id": "actor_0025",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Ancien maire de Sougy (mandats précédant mars 2026), ayant annoncé ne pas se représenter en 2026 ; aucune position sur la ligne documentée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0026",
+    "actor_id": "actor_0026",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Maire d’Artenay, dont la liste a remporté les municipales du 15 mars 2026 (57,43 %). Aucune position sur le projet RTE n’est attestée.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0027",
+    "actor_id": "actor_0027",
+    "event_type": "first_documented_appearance",
+    "date": "2026-08-29",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus-fav",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0026"
+    ],
+    "evidence_ids": [
+      "evidence_0032"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Le Monde du 29 août 2026 rapporte l’opposition explicite du maire Philippe Lesage au projet Enertrag de stockage stationnaire par batteries lithium à Dambron, distinct de la ligne Chaingy–Dambron. Aucune opposition à la ligne RTE ne peut être inférée de cette prise de position.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0043",
+    "actor_id": "actor_0043",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0043"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Le tribunal administratif d'Orléans a nommé Étienne Lefebvre commissaire enquêteur chargé de l'enquête publique Chaingy–Dambron.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0044",
+    "actor_id": "actor_0044",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0044"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Christophe Polfer signe l'éditorial de la lettre RTE de mars 2026 en tant que responsable de la concertation du projet ; cette fonction ne prouve pas qu'il remplace juridiquement tout responsable antérieur du projet.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0045",
+    "actor_id": "actor_0045",
+    "event_type": "first_documented_appearance",
+    "date": "2026-02-12",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0023"
+    ],
+    "evidence_ids": [
+      "evidence_0041"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "L'Autorité environnementale (IGEDD) estime dans son avis du 12 février 2026 que le dossier justifie sommairement la nécessité de la nouvelle ligne et doit préciser les impacts sur les milieux naturels après fixation du tracé définitif.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0046",
+    "actor_id": "actor_0046",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Valentin Caron est présenté comme président de la Chambre d'agriculture du Loiret. Il explique qu'une convention a été signée avec RTE pour accompagner chaque exploitation et demande une implantation compatible avec les contraintes d'irrigation, de drainage et de cultures, ainsi que des indemnisations transparentes.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0047",
+    "actor_id": "actor_0047",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Valentin Caron est présenté comme président de la Chambre d'agriculture du Loiret. Il explique qu'une convention a été signée avec RTE pour accompagner chaque exploitation et demande une implantation compatible avec les contraintes d'irrigation, de drainage et de cultures, ainsi que des indemnisations transparentes.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0048",
+    "actor_id": "actor_0048",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [],
+    "evidence_ids": [],
+    "confidence": "low",
+    "date_basis": "Aucune date de publication exacte établie dans les preuves de sa fiche ; exclu des graphiques.",
+    "summary": "Organisme sollicité par RTE pour le dialogue territorial avec les agriculteurs concernés ; aucun soutien/opposition explicite établi.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0049",
+    "actor_id": "actor_0049",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0045"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "RTE cite Eiffage comme son prestataire chargé des études et de la finalisation du tracé de détail ; Eiffage ne se substitue pas à RTE comme maître d'ouvrage.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0050",
+    "actor_id": "actor_0050",
+    "event_type": "first_documented_appearance",
+    "date": "2025-01-08",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0025"
+    ],
+    "evidence_ids": [
+      "evidence_0050"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Le 20 décembre 2024, en réunion plénière préfectorale à Orléans, Nicolas Honoré, alors secrétaire général du Loiret, a retenu le fuseau de moindre impact pour la liaison Chaingy–Dambron.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0051",
+    "actor_id": "actor_0051",
+    "event_type": "first_documented_appearance",
+    "date": "2026-03-25",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0022"
+    ],
+    "evidence_ids": [
+      "evidence_0049"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "La lettre RTE de mars 2026 prévoit des inventaires d'oiseaux par la LPO sur les lignes appelées à être déposées, avec déplacement éventuel de nids en hiver 2026–2027 sous réserve des autorisations nécessaires. La réalisation effective n'est pas confirmée par cette annonce.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0052",
+    "actor_id": "actor_0052",
+    "event_type": "first_documented_appearance",
+    "date": "2024-10-10",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "porteurs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0027"
+    ],
+    "evidence_ids": [
+      "evidence_0055"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "Céline Marcy est citée par RTE comme responsable de la concertation Chaingy–Dambron lors de la réunion publique du 3 octobre 2024 ; cette fonction est documentée historiquement et ne prouve pas qu'elle occupe le même poste en 2026.",
+    "is_aggregate": false,
+    "is_media": false
+  },
+  {
+    "id": "timeline_chaingy_actor_0053",
+    "actor_id": "actor_0053",
+    "event_type": "first_documented_appearance",
+    "date": "2026-01-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "orgs",
+    "stance": "unknown",
+    "source_ids": [
+      "source_0031"
+    ],
+    "evidence_ids": [
+      "evidence_0051"
+    ],
+    "confidence": "medium",
+    "date_basis": "Première date de publication vérifiable associée à cet acteur dans les preuves actuelles ; cela ne prouve pas sa première apparition réelle.",
+    "summary": "La concertation préalable de mise en compatibilité du PLUi Cœur de Beauce a eu lieu du 5 au 19 janvier 2026 et concerne l'implantation de pylônes de plus de quinze mètres à Poupry et Dambron. Ce n'est pas une approbation finale du PLUi ni une DUP.",
+    "is_aggregate": false,
+    "is_media": false
+  }
+]

@@ -1,106 +1,132 @@
 {
   "id": "project_chaingy_dambron",
   "title": "Cartographie interactive — Chaingy–Dambron",
-  "subtitle": "Restructuration du réseau électrique entre Chaingy (45) et Dambron (28) : projet de ligne aérienne 400 kV, acteurs territoriaux et enquête publique de 2026.",
-  "last_updated": "2026-11-03",
-  "cutoff_date": "2026-08-10",
-  "data_notice": "Établi exclusivement à partir du fichier Carto Chaingy-Dambron.xlsx (50 ressources, trouvées jusqu’au 10 août 2026). Les URLs sont celles du fichier, sans consultation directe supplémentaire ; dates de trouvaille distinctes des dates de publication. Position non renseignée ≠ neutralité ou soutien.",
+  "subtitle": "Projet de ligne aérienne 400 kV Chaingy–Dambron (26 km, gain de transit prévu de 2 300 MW), enquête publique achevée et avis favorable du commissaire enquêteur rendu en juillet 2026 ; DUP non établie.",
+  "last_updated": "2026-11-10",
+  "cutoff_date": "2026-11-10",
+  "data_notice": "Requalification au 10 novembre 2026 : 50 ressources du classeur vérifiées contre le corpus existant ; consultation additionnelle de sources officielles RTE, CNDP, IGEDD et collectivités. Les informations publiées, les annonces futures et les dates des faits sont distinguées. Les élections municipales ne prouvent aucune position sur la ligne ; l'opposition au projet Enertrag est distincte.",
   "griefs": [
     {
-      "title": "⏱️ Calendrier de chantier non stabilisé",
-      "text": "Les sources 2024 annoncent un démarrage en 2028 et une mise en service en 2030, tandis que l’article ICI du 5 mai 2026 évoque un début des travaux en juin 2027. La divergence n’est pas résolue dans le corpus : aucune date de travaux définitive ne peut être certifiée.",
+      "title": "⏱️ Calendrier révisé : travaux 2027–fin 2028",
+      "text": "Les mentions de 2028 comme début des travaux et 2030 comme mise en service proviennent des archives 2024 ; la lettre RTE de mars 2026 prévoit un chantier durant 2027 achevé fin 2028. Le calendrier reste prévisionnel et la DUP n'est pas démontrée.",
       "evidence_ids": [
         "evidence_0003",
-        "evidence_0009"
+        "evidence_0009",
+        "evidence_0036"
       ]
     },
     {
-      "title": "📢 Information et participation du public à Ingré",
-      "text": "Des riverains proches du futur tracé déclarent manquer d’informations. L’enquête publique unique est annoncée pour la période du 4 mai au 11 juin 2026. Aucune mobilisation opposée structurée n’est attestée par les ressources.",
+      "title": "📢 Participation du public à Ingré",
+      "text": "Des riverains ont signalé des insuffisances d'information. Après l'avis favorable d'enquête publique, la Ville d'Ingré publie les demandes d'information sur le tracé et le suivi des champs électromagnétiques ; une réunion a été annoncée pour le 27 octobre.",
       "evidence_ids": [
         "evidence_0010",
-        "evidence_0006",
-        "evidence_0014"
+        "evidence_0039",
+        "evidence_0040"
       ]
     },
     {
-      "title": "⚕️ Préoccupations sanitaires exprimées",
-      "text": "Des riverains d’Ingré interrogent les conséquences sanitaires d’une ligne 400 kV. L’affirmation rassurante de RTE dans la presse doit rester présentée comme celle de l’opérateur, faute de mesure ou d’expertise indépendante fournie.",
+      "title": "⚕️ Champs électromagnétiques : étude à compléter",
+      "text": "Les inquiétudes des riverains sont documentées, mais ne prouvent pas un risque sanitaire. L'Autorité environnementale demande de modéliser l'exposition dans les quartiers habités proches des trois lignes parallèles.",
       "evidence_ids": [
         "evidence_0010",
-        "evidence_0013"
+        "evidence_0042",
+        "evidence_0039"
       ]
     },
     {
-      "title": "🌾 Paysages, agriculture et environnement",
-      "text": "Le choix du fuseau doit intégrer les impacts paysagers, le cadre de vie, la biodiversité et les activités agricoles. Le corpus ne fournit ni décompte de parcelles impactées, ni inventaire environnemental final, ni liste d’opposants agricoles constitués.",
+      "title": "🌾 Agriculture et biodiversité : contraintes étayées",
+      "text": "62 pylônes sont projetés, avec 25 km sur les 26 km en zone agricole. La Chambre d'agriculture demande une implantation compatible avec l'irrigation, les cultures et l'accès aux champs. L'Ae réclame des compléments sur oiseaux, chauves-souris et milieux naturels.",
       "evidence_ids": [
-        "evidence_0017",
-        "evidence_0005"
+        "evidence_0037",
+        "evidence_0047",
+        "evidence_0041",
+        "evidence_0042"
       ]
     },
     {
-      "title": "⚖️ Procédure DUP et urbanisme",
-      "text": "La mairie de Chaingy annonce une enquête publique unique interdépartementale préalable à la DUP et à la mise en compatibilité du PLUi Cœur de Beauce du 4 mai au 11 juin 2026. Une DUP définitivement obtenue n’est pas démontrée par les ressources.",
+      "title": "⚖️ Avis d'enquête favorable ≠ DUP",
+      "text": "L'enquête publique a été achevée le 11 juin 2026 ; Étienne Lefebvre a rendu le 7 juillet un avis favorable sans réserve, accompagné de demandes de suivi, notamment à Ingré. Une DUP ministérielle définitive n'est pas démontrée.",
       "evidence_ids": [
-        "evidence_0006",
-        "evidence_0007"
+        "evidence_0038",
+        "evidence_0039",
+        "evidence_0057"
       ]
     },
     {
-      "title": "🏗️ Modernisation électrique et coût annoncé",
-      "text": "RTE propose environ 30 km de ligne aérienne 400 kV en substitution de deux lignes 225 kV anciennes. Le montant d’environ 50 M€ est une estimation attribuée à RTE dans un article de mai 2026. Aucune valeur de puissance en MW n’est établie.",
+      "title": "🏗️ Tracé et capacité : nouvelles références",
+      "text": "Le périmètre publié est de 26 km de ligne 400 kV nouvelle, 26 km de lignes aériennes supprimées et un gain de transit annoncé de 2 300 MW. Le montant de 50 M€ communiqué par RTE est distinct de l'estimation 60 M€ au stade de la saisine CNDP.",
       "evidence_ids": [
-        "evidence_0001",
-        "evidence_0002",
-        "evidence_0008"
+        "evidence_0033",
+        "evidence_0034",
+        "evidence_0035",
+        "evidence_0062"
+      ]
+    },
+    {
+      "title": "🌱 Recommandations de l'Autorité environnementale",
+      "text": "L'Ae pointe un manque de justification du scénario sans projet et demande des clarifications du bilan GES, de la biodiversité et des champs électromagnétiques. Il ne s'agit pas d'un avis défavorable sur l'opportunité.",
+      "evidence_ids": [
+        "evidence_0041",
+        "evidence_0042",
+        "evidence_0058"
       ]
     }
   ],
   "vigilance": [
-    "Écart non résolu entre les prévisions de début de travaux (2028 dans les sources 2024 ; juin 2027 dans la presse de mai 2026). Ne pas confondre prévision et autorisation définitive.",
-    "La DUP ne peut pas être présumée accordée : l’enquête publique annoncée du 4 mai au 11 juin 2026 est préalable à la décision.",
-    "Les positions des municipalités et nouveaux élus municipaux ne sont pas documentées dans ce corpus : la participation aux élections ou l’appartenance au périmètre de l’enquête ne prouve aucun soutien ni opposition.",
-    "Attention au projet Enertrag de batteries lithium à Dambron : la contestation du maire Philippe Lesage concerne cette installation distincte, et non la ligne RTE.",
-    "L’article « Les Ormes » dans la Vienne (86) ne concerne pas la commune d’Ormes du Loiret (45) : faux positif territorial exclu du référentiel (voir audit/corpus-review.json, ligne Excel 40).",
-    "L’avis de concertation de 2024 et plusieurs reprises d’articles n’existent dans l’Excel que sous URL Google Actualités. Les extraits sont traçables par ligne du fichier, mais les URLs canoniques éditoriales restent à qualifier.",
-    "Les articles budgétaires communaux du lot (lignes Excel 17 à 24, voir audit/corpus-review.json) ne décrivent pas le financement du projet RTE. Aucun coût communal ni contribution locale ne doit en être inféré.",
-    "La question sanitaire rapportée à Ingré exprime une inquiétude, pas un résultat scientifique établi ; l’assertion de RTE est attribuée à RTE."
+    "Le commissaire enquêteur a rendu un avis favorable le 7 juillet 2026 ; ce résultat ne vaut pas arrêté ministériel de déclaration d'utilité publique (DUP).",
+    "Le tracé initial était indiqué à ~30 km ; la fiche RTE le documente désormais à 26 km. Les 2 300 MW sont un gain de capacité de transport, pas une puissance de data center.",
+    "Les dates « début 2028 / service 2030 » de 2024 doivent être conservées comme historiques ; la lettre RTE de mars 2026 décrit des travaux de 2027 à fin 2028, sans date définitive autorisée.",
+    "Une enquête favorable avec une recommandation sur Ingré n'efface pas les demandes de suivi concernant les champs électromagnétiques, la biodiversité et l'information des riverains.",
+    "L'IGEDD donne des recommandations sur l'étude d'impact : son avis n'exprime pas un soutien ni une opposition formelle à l'opportunité du projet.",
+    "Les 62 pylônes et 25 km en zone agricole sont prévisionnels ; ni indemnisation déjà payée ni localisation finale et définitive des pylônes n'en découlent.",
+    "Le maire Philippe Lesage s'oppose au projet Enertrag de batteries à Dambron, pas au projet de ligne Chaingy–Dambron. Les projets doivent rester juridiquement distincts.",
+    "Les élus recensés dans le fichier ne sont ni favorables ni opposés à la ligne du seul fait de leur résultat aux élections municipales.",
+    "La Ville d'Ingré annonce une réunion pour le 27 octobre 2026 ; la tenue effective de la réunion n'est pas établie par cette annonce.",
+    "Le nom « Laurent Brimbeuf » est retenu à partir de sources officielles RTE et CNDP, qui contredisent la graphie presse « Brimboeuf »."
   ],
   "vigilance_evidence_ids": [
     [
+      "evidence_0038",
+      "evidence_0057"
+    ],
+    [
+      "evidence_0033",
+      "evidence_0034"
+    ],
+    [
       "evidence_0003",
-      "evidence_0009"
+      "evidence_0036"
     ],
     [
-      "evidence_0006"
+      "evidence_0039",
+      "evidence_0042"
     ],
     [
-      "evidence_0007",
+      "evidence_0058"
+    ],
+    [
+      "evidence_0037",
+      "evidence_0047"
+    ],
+    [
+      "evidence_0032",
+      "evidence_0056"
+    ],
+    [
       "evidence_0018",
-      "evidence_0021",
-      "evidence_0030",
-      "evidence_0026"
+      "evidence_0021"
     ],
     [
-      "evidence_0032"
+      "evidence_0040"
     ],
-    [],
     [
-      "evidence_0015",
-      "evidence_0016"
-    ],
-    [],
-    [
-      "evidence_0010",
-      "evidence_0013"
+      "evidence_0054"
     ]
   ],
   "source_descriptions": [
     "La République du Centre — Électricité : du changement sur les lignes aériennes entre Chaingy et l'Eure-et-Loir",
     "Mairie de Chaingy — Enquête publique",
     "ICI Orléans — \"A quoi bon faire une enquête publique ?\" : A Ingré, les riverains de la future ligne électrique s'interrogent",
-    "Google Actualités (agrégateur) — Restructuration du réseau électrique entre Chaingy et Dambron : avis de concertation préalable du public",
     "La République du Centre — Chaingy : les résultats complets du premier tour des municipales 2026",
     "La République du Centre — Jean-Pierre Durand, le maire de Chaingy, à la tête de la seule liste en lice pour les élections municipales",
     "La République du Centre — Les priorités de Christian Dumas, maire sortant d'Ingré, et de sa liste pour les municipales",
@@ -115,36 +141,59 @@
     "La République du Centre — \"Je n’imaginais pas occuper cette fonction\" : Éric David, maire de Sougy depuis douze ans, ne repart pas",
     "La République du Centre — David Jacquet réélu à Artenay après une campagne marquée par d'importants incidents",
     "L’Écho Républicain — Municipales 2026 : le maire de Dambron Philippe Lesage briguera-t-il un nouveau mandat ?",
-    "Google Actualités (agrégateur) — Dambron : l'opposition municipale face au projet Enertrag de stockage d'énergie par batteries lithium"
+    "RTE — Restructuration du réseau électrique entre Chaingy et Dambron : avis de concertation préalable du public",
+    "CNDP — Création d’une ligne de transport d’électricité entre les postes de Chaingy et Dambron",
+    "RTE — Restructuration du réseau électrique entre Chaingy et Dambron",
+    "RTE — Lettre d’information n°4 — Chaingy–Dambron (mars 2026)",
+    "IGEDD — Autorité environnementale — Avis n° 2025-137 — Restructuration Chaingy–Dambron et PLUi Cœur de Beauce",
+    "Ville d’Ingré — Projet de restructuration ligne Chaingy-Dambron — rapport et réunion publique",
+    "RTE — Nouvelle ligne électrique entre Chaingy et Dambron : un fuseau de passage retenu",
+    "Le Monde — Dans la Beauce, face à un projet de stockage d’énergie par batteries lithium, un maire menace de démissionner",
+    "RTE — Compte-rendu de la réunion publique organisée à Chaingy le 3 octobre 2024",
+    "Ville d’Ormes — Projet de restructuration du réseau électrique entre Chaingy et Dambron",
+    "Registre Numérique — enquête publique — Rapport et conclusions du commissaire enquêteur — Chaingy–Dambron",
+    "Légifrance / Journal officiel — Décision CNDP n° 2024/18/THT Chaingy-Dambron/1 du 7 février 2024",
+    "Préfecture du Loiret — Concertation préalable à la mise en compatibilité du PLUi Cœur de Beauce"
   ],
   "project_facts": {
     "voltage_kv": 400,
-    "length_km_approx": 30,
+    "length_km": 26,
+    "length_basis": "Tracé présenté par RTE dans les chiffres clés, après les 30 km estimatifs du dossier initial",
+    "existing_225kv_lines_count": 3,
     "replaced_lines": {
       "count": 2,
       "voltage_kv": 225
     },
-    "existing_225kv_lines_count": 3,
+    "removed_aerial_lines_km": 26,
+    "transit_capacity_gain_mw": 2300,
+    "transit_measure": "Augmentation de capacité de transport, non puissance totale de consommateur",
+    "investment_eur_approx": 50000000,
+    "prior_saisine_estimate_eur_approx": 60000000,
     "communes_concerned": 10,
+    "pylons_proposed": 62,
+    "agricultural_tracé_km": 25,
     "public_inquiry": {
       "from": "2026-05-04",
       "to": "2026-06-11",
-      "status": "announced_in_documents"
+      "status": "closed",
+      "commissioner_opinion": "favorable_without_reservations",
+      "commissioner_opinion_date": "2026-07-07",
+      "dup_status": "not_proven"
     },
-    "investment_eur_approx": 50000000,
-    "construction_start_forecasts": [
-      "2027-06",
-      "2028"
-    ],
-    "commissioning_forecast_from_2024": "2030",
-    "project_status_as_of_cutoff": "enquête publique annoncée, DUP non démontrée"
+    "forecast_work_start_year": 2027,
+    "forecast_work_end": "2028-12",
+    "commissioning_forecast": "end_2028_according_to_ville_ormes",
+    "project_status_as_of_cutoff": "enquête publique close et avis favorable ; instruction DUP restant à vérifier",
+    "separate_related_project": "Enertrag Dambron batteries — distinct legal project"
   },
   "project_fact_evidence_ids": [
-    "evidence_0001",
-    "evidence_0003",
-    "evidence_0009",
-    "evidence_0008",
-    "evidence_0007",
-    "evidence_0006"
+    "evidence_0033",
+    "evidence_0034",
+    "evidence_0035",
+    "evidence_0036",
+    "evidence_0037",
+    "evidence_0038",
+    "evidence_0056",
+    "evidence_0062"
   ]
 }

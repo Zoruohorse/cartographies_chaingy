@@ -70,5 +70,22 @@
     "valid_from": null,
     "valid_to": null,
     "updated_at": "2026-11-03"
+  },
+  {
+    "id": "claim_0005",
+    "subject_id": "actor_0043",
+    "project_id": "project_chaingy_dambron",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Avis formel favorable sans réserve du commissaire enquêteur du 7 juillet 2026, rendu dans le cadre de sa mission administrative. Ce n'est ni un soutien partisan, ni la décision ministérielle de DUP.",
+    "certainty": "high",
+    "status": "reported",
+    "evidence_ids": [
+      "evidence_0038"
+    ],
+    "valid_from": "2026-07-07",
+    "valid_to": null,
+    "updated_at": "2026-11-10"
   }
 ]

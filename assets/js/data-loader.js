@@ -1,5 +1,5 @@
 export async function loadRepository(base="../../"){
- const paths={meta:"data/meta.json",actors:"data/actors.json",claims:"data/claims.json",evidence:"data/evidence.json",relations:"data/relations.json",sources:"data/sources.json",taxonomy:"config/taxonomy.json"};
+ const paths={meta:"data/meta.json",actors:"data/actors.json",claims:"data/claims.json",evidence:"data/evidence.json",relations:"data/relations.json",sources:"data/sources.json",taxonomy:"config/taxonomy.json",content:"data/content.json",timeline:"data/timeline.json"};
  const d=Object.fromEntries(await Promise.all(Object.entries(paths).map(async([name,path])=>[name,await fetch(base+path).then(r=>{if(!r.ok)throw new Error(path+' HTTP '+r.status);return r.json();})])));
  d.actorById=new Map(d.actors.map(a=>[a.id,a]));d.claimsByActor=new Map();d.claims.forEach(x=>{if(!d.claimsByActor.has(x.subject_id))d.claimsByActor.set(x.subject_id,[]);d.claimsByActor.get(x.subject_id).push(x)});
  d.evidenceById=new Map(d.evidence.map(e=>[e.id,e]));d.sourceById=new Map(d.sources.map(s=>[s.id,s]));return d;
