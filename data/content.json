@@ -202,6 +202,17 @@
       ]
     },
     {
+      "id": "chaingy_milestone_015",
+      "date": "2026-06-29",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "Publication d'un tracé détaillé actualisé",
+      "details": "RTE met à disposition une carte du tracé de la future ligne. La version publiée pendant l'instruction restait susceptible d'évoluer ; elle n'est pas une autorisation finale.",
+      "evidence_ids": [
+        "evidence_0061"
+      ]
+    },
+    {
       "id": "chaingy_milestone_011",
       "date": "2026-07-07",
       "period_precision": "day",

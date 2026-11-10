@@ -227,5 +227,24 @@
   ],
   "timeline_count": 38,
   "timeline_dated": 27,
-  "source_access": "Les pages institutionnelles et la presse recherchées ont été directement consultées ; les anciens liens La République du Centre et ICI présents dans le classeur ne sont pas présentés comme nouvellement consultés."
+  "source_access": "Les pages institutionnelles et la presse recherchées ont été directement consultées ; les anciens liens La République du Centre et ICI présents dans le classeur ne sont pas présentés comme nouvellement consultés.",
+  "milestones_count": 15,
+  "proof_linkage_final_check": {
+    "date": "2026-11-10",
+    "unused_evidence_ids": [],
+    "fixes": [
+      {
+        "evidence_id": "evidence_0014",
+        "attached_to": "actor_0043"
+      },
+      {
+        "evidence_id": "evidence_0017",
+        "attached_to": "meta.griefs agriculture et biodiversité"
+      },
+      {
+        "evidence_id": "evidence_0061",
+        "attached_to": "chaingy_milestone_015"
+      }
+    ]
+  }
 }

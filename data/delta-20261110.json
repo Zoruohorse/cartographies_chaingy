@@ -14,7 +14,8 @@
         "updated_at": "2026-11-10",
         "evidence_ids": [
           "evidence_0043",
-          "evidence_0038"
+          "evidence_0038",
+          "evidence_0014"
         ]
       },
       {
@@ -2244,7 +2245,203 @@
       "commissioning_forecast": "end_2028_according_to_ville_ormes",
       "project_status_as_of_cutoff": "enquête publique close et avis favorable ; instruction DUP restant à vérifier",
       "separate_related_project": "Enertrag Dambron batteries — distinct legal project"
-    }
+    },
+    "added_milestones": [
+      {
+        "id": "chaingy_milestone_001",
+        "date": "2024-02-07",
+        "title": "Désignation des garants de la concertation",
+        "evidence_ids": [
+          "evidence_0016",
+          "evidence_0052"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_002",
+        "date": "2024-09-03",
+        "title": "Ouverture de la concertation préalable",
+        "evidence_ids": [
+          "evidence_0015",
+          "evidence_0052"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_003",
+        "date": "2024-10-28",
+        "title": "Bilan de la concertation préalable",
+        "evidence_ids": [
+          "evidence_0059"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_004",
+        "date": "2024-12-20",
+        "title": "Choix du fuseau de moindre impact",
+        "evidence_ids": [
+          "evidence_0050"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_005",
+        "date": "2025-10-29",
+        "title": "Dossier de demande de DUP réceptionné",
+        "evidence_ids": [
+          "evidence_0063"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_006",
+        "date": "2026-01-05",
+        "title": "Concertation de mise en compatibilité du PLUi",
+        "evidence_ids": [
+          "evidence_0051"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_007",
+        "date": "2026-02-12",
+        "title": "Avis de l'Autorité environnementale",
+        "evidence_ids": [
+          "evidence_0041",
+          "evidence_0042"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_008",
+        "date": "2026-03-25",
+        "title": "Actualisation RTE du calendrier et des caractéristiques",
+        "evidence_ids": [
+          "evidence_0036",
+          "evidence_0037"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_009",
+        "date": "2026-05-04",
+        "title": "Ouverture de l'enquête publique",
+        "evidence_ids": [
+          "evidence_0006",
+          "evidence_0057"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_010",
+        "date": "2026-06-11",
+        "title": "Clôture de l'enquête publique",
+        "evidence_ids": [
+          "evidence_0057"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_015",
+        "date": "2026-06-29",
+        "title": "Publication d'un tracé détaillé actualisé",
+        "evidence_ids": [
+          "evidence_0061"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_011",
+        "date": "2026-07-07",
+        "title": "Avis favorable sans réserve du commissaire enquêteur",
+        "evidence_ids": [
+          "evidence_0038",
+          "evidence_0039"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_012",
+        "date": "2026-10-27",
+        "title": "Réunion publique annoncée à Ingré",
+        "evidence_ids": [
+          "evidence_0040"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_013",
+        "date": "2027-01-01",
+        "title": "Démarrage des travaux envisagé en 2027",
+        "evidence_ids": [
+          "evidence_0036"
+        ]
+      },
+      {
+        "id": "chaingy_milestone_014",
+        "date": "2028-12-01",
+        "title": "Fin de chantier envisagée pour fin 2028",
+        "evidence_ids": [
+          "evidence_0036"
+        ]
+      }
+    ],
+    "griefs_after": [
+      {
+        "title": "⏱️ Calendrier révisé : travaux 2027–fin 2028",
+        "text": "Les mentions de 2028 comme début des travaux et 2030 comme mise en service proviennent des archives 2024 ; la lettre RTE de mars 2026 prévoit un chantier durant 2027 achevé fin 2028. Le calendrier reste prévisionnel et la DUP n'est pas démontrée.",
+        "evidence_ids": [
+          "evidence_0003",
+          "evidence_0009",
+          "evidence_0036"
+        ]
+      },
+      {
+        "title": "📢 Participation du public à Ingré",
+        "text": "Des riverains ont signalé des insuffisances d'information. Après l'avis favorable d'enquête publique, la Ville d'Ingré publie les demandes d'information sur le tracé et le suivi des champs électromagnétiques ; une réunion a été annoncée pour le 27 octobre.",
+        "evidence_ids": [
+          "evidence_0010",
+          "evidence_0039",
+          "evidence_0040"
+        ]
+      },
+      {
+        "title": "⚕️ Champs électromagnétiques : étude à compléter",
+        "text": "Les inquiétudes des riverains sont documentées, mais ne prouvent pas un risque sanitaire. L'Autorité environnementale demande de modéliser l'exposition dans les quartiers habités proches des trois lignes parallèles.",
+        "evidence_ids": [
+          "evidence_0010",
+          "evidence_0042",
+          "evidence_0039"
+        ]
+      },
+      {
+        "title": "🌾 Agriculture et biodiversité : contraintes étayées",
+        "text": "62 pylônes sont projetés, avec 25 km sur les 26 km en zone agricole. La Chambre d'agriculture demande une implantation compatible avec l'irrigation, les cultures et l'accès aux champs. L'Ae réclame des compléments sur oiseaux, chauves-souris et milieux naturels.",
+        "evidence_ids": [
+          "evidence_0037",
+          "evidence_0047",
+          "evidence_0041",
+          "evidence_0042",
+          "evidence_0017"
+        ]
+      },
+      {
+        "title": "⚖️ Avis d'enquête favorable ≠ DUP",
+        "text": "L'enquête publique a été achevée le 11 juin 2026 ; Étienne Lefebvre a rendu le 7 juillet un avis favorable sans réserve, accompagné de demandes de suivi, notamment à Ingré. Une DUP ministérielle définitive n'est pas démontrée.",
+        "evidence_ids": [
+          "evidence_0038",
+          "evidence_0039",
+          "evidence_0057"
+        ]
+      },
+      {
+        "title": "🏗️ Tracé et capacité : nouvelles références",
+        "text": "Le périmètre publié est de 26 km de ligne 400 kV nouvelle, 26 km de lignes aériennes supprimées et un gain de transit annoncé de 2 300 MW. Le montant de 50 M€ communiqué par RTE est distinct de l'estimation 60 M€ au stade de la saisine CNDP.",
+        "evidence_ids": [
+          "evidence_0033",
+          "evidence_0034",
+          "evidence_0035",
+          "evidence_0062"
+        ]
+      },
+      {
+        "title": "🌱 Recommandations de l'Autorité environnementale",
+        "text": "L'Ae pointe un manque de justification du scénario sans projet et demande des clarifications du bilan GES, de la biodiversité et des champs électromagnétiques. Il ne s'agit pas d'un avis défavorable sur l'opportunité.",
+        "evidence_ids": [
+          "evidence_0041",
+          "evidence_0042",
+          "evidence_0058"
+        ]
+      }
+    ]
   },
   "new_files": [
     "data/content.json",
